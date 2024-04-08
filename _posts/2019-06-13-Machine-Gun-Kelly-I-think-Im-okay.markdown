@@ -51,4 +51,4 @@ tags:
         Creo que algo esta jodidamente mal conmigo" | markdownify }}
 </div>
 
-<div class="iframe-youtube"><iframe src="https://www.youtube.com/embed/wK-8TCDrbV8?si=HraZeWQjDM_Nb-B-?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-youtube"><iframe src="https://www.youtube-nocookie.com/embed/wK-8TCDrbV8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
