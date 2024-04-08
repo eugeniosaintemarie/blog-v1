@@ -15,20 +15,20 @@ tags:
 
 <div class="en post-container">
     {{ "Watch me, take a good thing and fuck it all up in one night\
-        Catch me, I'm the one on the run away from the headlights\\
-        No sleep, up all week wasting time with people I don't like\\
-        I think something's fucking wrong with me\\
-        Drown myself in alcohol, that shit never helps at all\\
-        I might say some stupid things tonight when you pick up this call\\
-        I've been hearing silence on the other side for way too long\\
-        I can taste it on my tongue, I can tell that something's wrong\ but\
-        I guess it's just my life and I can take it if I wanna\\
-        But I cannot hide in hills of California\\
-        Because these hills have eyes, and I got p\aranoia\
-        I hurt myself sometimes, is that too scary \for you?\
-        Watch me, take a good thing and fuck it all up in one night\\
-        Catch me, I'm the one on the run away from the headlights\\
-        No sleep, up all week wasting time with people I don't like\\
+        Catch me, I'm the one on the run away from the headlights\
+        No sleep, up all week wasting time with people I don't like\
+        I think something's fucking wrong with me\
+        Drown myself in alcohol, that shit never helps at all\
+        I might say some stupid things tonight when you pick up this call\
+        I've been hearing silence on the other side for way too long\
+        I can taste it on my tongue, I can tell that something's wrong but\
+        I guess it's just my life and I can take it if I wanna\
+        But I cannot hide in hills of California\
+        Because these hills have eyes, and I got paranoia\
+        I hurt myself sometimes, is that too scary for you?\
+        Watch me, take a good thing and fuck it all up in one night\
+        Catch me, I'm the one on the run away from the headlights\
+        No sleep, up all week wasting time with people I don't like\
         I think that something's fucking wrong with me" | markdownify }}
 </div>
 
