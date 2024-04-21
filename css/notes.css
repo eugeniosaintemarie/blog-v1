@@ -603,7 +603,7 @@ select {
   color: #404040;
   border-color: #404040;
   padding: 0 0.4em;
-  background: black;
+  background: #0B1215;
 }
 select.sel-lang {
   min-height: 28px;
