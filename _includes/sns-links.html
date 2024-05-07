@@ -65,9 +65,8 @@
       iframe {border: none !important;}
     </style>
   <script>
-    // Esperar a que el iframe se cargue completamente
     document.getElementById('pinterest-iframe-buttlerfly').onload = function() {
-        var iframeDocument = document.getElementById('myIframe').contentWindow.document;
+        var iframeDocument = document.getElementById('pinterest-iframe-buttlerfly').contentWindow.document;
         var buttonToHide = iframeDocument.querySelector('.PIN_1715123337158_ft');
         if (buttonToHide) {
             buttonToHide.style.display = 'none';
