@@ -67,9 +67,11 @@
     <script>
       document.getElementById('pinterest-iframe-buttlerfly').onload = function() {
           var iframeDocument = document.getElementById('pinterest-iframe-buttlerfly').contentWindow.document;
-          var buttonToHide = iframeDocument.querySelector('.PIN_1715124388886_ft');
-          if (buttonToHide) {
-              buttonToHide.style.display = 'none';
+          var buttonsToHide = iframeDocument.querySelectorAll('[class*="PIN_171512_ft"]');
+          if (buttonsToHide.length > 0) {
+              buttonsToHide.forEach(function(button) {
+                  button.style.display = 'none';
+              });
           }
       };
     </script>
