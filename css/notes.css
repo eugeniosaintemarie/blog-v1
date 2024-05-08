@@ -954,11 +954,17 @@ samp {
   text-decoration: none !important;
 }
 
-/*@media (min-width: 1102px) {
-   footer > #pinterest-iframe-buttlerfly {
+@media (max-width: 1200px) {
+  footer > #pinterest-iframe-buttlerfly {
+   display: none;
+ }
+}
+
+@media (max-width: 1200px) {
+   .sidebar-container > #pinterest-iframe-buttlerfly {
     display: none;
   }
-}*/
+}
 
 @media only screen and (max-width: 767px) {
   .navbar-default .navbar-collapse {
