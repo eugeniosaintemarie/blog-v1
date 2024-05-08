@@ -954,13 +954,13 @@ samp {
   text-decoration: none !important;
 }
 
-@media (max-width: 1200px) {
-  .list-inline .text-center #pinterest-iframe-buttlerfly {
+@media (min-width: 1200px) {
+  footer #pinterest-iframe-buttlerfly {
     display: none !important;
   }
 }
 
-@media (min-width: 1200px) {
+@media (max-width: 1200px) {
   .short-about #pinterest-iframe-buttlerfly {
     display: none !important;
   }
