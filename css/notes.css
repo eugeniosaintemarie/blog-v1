@@ -955,13 +955,13 @@ samp {
 }
 
 @media (max-width: 1200px) {
-  footer > #pinterest-iframe-buttlerfly {
+  .sidebar-container > #pinterest-iframe-buttlerfly {
     display: none !important;
   }
 }
 
 @media (max-width: 1200px) {
-  .sidebar-container > #pinterest-iframe-buttlerfly {
+  footer > #pinterest-iframe-buttlerfly {
     display: none !important;
   }
 }
