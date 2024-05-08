@@ -64,16 +64,5 @@
     <style>
       #pinterest-iframe-buttlerfly {border: none !important; min-height: 200px !important;}
     </style>
-    <script>
-      document.getElementById('pinterest-iframe-buttlerfly').onload = function() {
-          var iframeDocument = document.getElementById('pinterest-iframe-buttlerfly').contentWindow.document;
-          var elementsToHide = iframeDocument.querySelectorAll('[data-pin-log="embed_user_ft"]');
-          if (elementsToHide.length > 0) {
-              elementsToHide.forEach(function(element) {
-                  element.style.display = 'none';
-              });
-          }
-      };
-    </script>
 
   </ul>
