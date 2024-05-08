@@ -954,12 +954,12 @@ samp {
   text-decoration: none !important;
 }
 
-.list-inline>#pinterest-iframe-buttlerfly {
+.list-inline > #pinterest-iframe-buttlerfly {
   display: none;
 }
 
 @media (min-width: 1102px) {
-  .list-inline.text-center>#pinterest-iframe-buttlerfly {
+  .list-inline.text-center > #pinterest-iframe-buttlerfly {
     display: none;
   }
 }
