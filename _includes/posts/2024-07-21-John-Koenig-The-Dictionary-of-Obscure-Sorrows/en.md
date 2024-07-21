@@ -131,4 +131,5 @@ n. the amniotic tranquility of being indoors during a thunderstorm.
 >Latin chrysalis, the pupa of a butterfly. Pronounced “kris-uh-liz-uhm.”
 
 
+
 ![]({{site.baseurl}}/img/posts/in-post/2024-07-21-John-Koenig-The-Dictionary-of-Obscure-Sorrows-ilustration.jpg)
