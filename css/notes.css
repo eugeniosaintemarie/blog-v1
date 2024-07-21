@@ -2021,9 +2021,9 @@ body {
 }
 
 em {
-  font-size: 12px !important;
+  /*font-size: 12px !important;*/
   display: block;
-  text-align: center !important;
+  /*text-align: center !important;*/
 }
 
 .post-container .pager li a span {
