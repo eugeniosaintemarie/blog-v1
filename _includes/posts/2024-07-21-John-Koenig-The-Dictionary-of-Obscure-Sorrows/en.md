@@ -1,5 +1,5 @@
 ### Anemoia
-**Nostalgia for a time you never experienced**
+***Nostalgia for a time you never experienced***
 Looking at old photos, it’s hard not to feel a kind of wanderlust. A pang of nostalgia, for an era you never lived through. Longing to step through the frame into a world of black and white, if only to sit on the side of the road and watch the locals passing by.
 These are people who lived and died before any of us arrived here. Who sleep in some of the same houses we do, and look up at the same moon. Who breathe the same air, feel the same blood in their veins—and live in a completely different world.
 It’s a world still covered in dust from the frontier. A world of adults, whose lives are hammered out by hand. A world of front porches, of fires to light in the evening, of conversations over a fence. You’d feel the energy of the boulevards teeming with crowds, gathering to tell dirty jokes, awaiting news reports, or crisscrossing at random, just barely dodging the horses. You could hear the voices of hardscrabble homesteaders, calling in their children for their one and only family photo. Or look around at the architecture of the old city, whose ornate limestone canyons fade back into a ghostly haze, dotted here and there with people lounging in the windows, trying to escape the oppressive summer heat.
