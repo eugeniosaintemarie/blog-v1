@@ -94,7 +94,7 @@ tags:
     Y tus cuernos empezaron a mostrarse cuando te vi enojada\\
     Pero esperaré por ti porque esta no es la cara que conocía\\
     Probablemente podría habernos salvado, pero en cambio, dejé que nos estrelláramos\\
-    Porque no confío en nadie para que me ame de vuelta, pero ella dice, 'Sí'\\
+    Porque no confío en nadie para que me ame de vuelta, pero ella dice, 'sí'\\
     Y este no es el lugar para ti\\
     \\
     Camino solitario, llévame a casa\\
@@ -112,7 +112,7 @@ tags:
     Y tus cuernos empezaron a mostrarse cuando te vi enojada\\
     Pero esperaré por ti porque esta no es la cara que conocía\\
     Y probablemente podría habernos salvado, pero en cambio, dejé que nos estrelláramos\\
-    Porque no confío en nadie para que me ame de vuelta, pero tú dices, 'Sí'\\
+    Porque no confío en nadie para que me ame de vuelta, pero tú dices, 'sí'\\
     Y este no es el lugar para ti\\
     \\
     Camino solitario, llévame a casa\\
