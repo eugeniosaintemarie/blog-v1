@@ -4,51 +4,72 @@ header-style: text
 header-img:   ""
 multilingual: true
 catalog:      false
-iframe:       "https://www.youtube.com/embed/vhumOLNSSJY"
-title:        "Happy"
+iframe:       "https://www.youtube.com/embed/b6-JNeXxN3s?si=90UhUgem17v-KOb1&amp;controls=0"
+title:        "Lonely road"
 subtitle:     ""
-author:       "NF"
-date:         2023-04-07
+author:       "Machine Gun Kelly"
+date:         2024-07-26
 tags:
             - Songs
 ---
 
 <div class="en post-container">
-    {{ "Yeah, been this way so long\
-        It feels like something's off when I'm not depressed\
-        I got some issues that I won't address\
-        I got some baggage I ain't opened yet\\
-        I got some demons I should put to rest\
-        I got some traumas that I can't forget\
-        I got some phone calls I been avoiding\
-        Some family members I don't really connect with\\
-        Some things I said I wish I would of not let slip\
-        Some hurtful words that never should of left my lips\
-        Some bridges burned, I'm not ready to rebuild yet\
-        Some insecurities I haven't dealt with, yes\\
-        I'll be the first to admit that I'm a lonely soul\
-        And the last to admit I need a hand to hold\
-        Losing hope, headed down a dangerous road\
-        Strange, I know, but I feel most at home when I'm" | markdownify }}
+    {{ "Lonely road, take me home\\
+        Take me home, lonely road\\\\
+        I'ma go downtown\\
+        Ain't been in a long time\\
+        I'm takin' back Sundays\\
+        Since you took away my life (since you took away my life)\\
+        There's some things that I know now (mmh)\\
+        Couple songs that I'd rewrite (yeah)\\
+        Start over like Mondays\\
+        Pourin' strong on a weeknight (mmh)\\
+        See, I hear the devil wears Prada, but I couldn't read the tags\\
+        And your horns started showin' when I seen you mad\\
+        But I'll wait for you 'cause this is not the face I knew\\
+        I probably could've saved us, but instead, I let us crash\\
+        'Cause I don't trust no one to love me back, but she say, "I do"\\
+        And this is not the place for you\\
+        Lonely road, take me home\\
+        To the place that we went wrong\\
+        Where'd you go now?\\
+        It's been a ghost town\\
+        And I'm still here all alone\\
+        When the days feel long and the nights get cold\\
+        And I'm thousands of miles away (ah-ah-ah)\\
+        I use alcohol just to fill that hole\\
+        Will our home ever be the same?\\
+        I hear the devil wears Prada, but I couldn't read the tags\\
+        And your horn started showin' when I see you mad\\
+        But I'll wait for you 'cause this is not the face I knew\\
+        And I probably could've saved us, but instead, I let us crash\\
+        'Cause I don't trust no one to love me back, but you say, "I do"\\
+        And this is not the place for you\\
+        Lonely road, take me home\\
+        To the place that we went wrong\\
+        Where'd you go now?\\
+        It's been a ghost town\\
+        And I'm still here all alone\\
+        And if you could salvage my soul\\
+        Would you sacrifice this life to not die alone?\\
+        'Cause even a palace ain't home without you\\
+        So I might leave here soon, but I wanna leave you this song (hey)\\
+        Lonely road (lonely road)\\
+        Take me home (won't you take me home?)\\
+        To the place that we went wrong\\
+        Where'd you go now? (Where'd you go now?)\\
+        It's been a ghost town\\
+        And I'm still here all alone (I'm still here)\\
+        Yeah, I'm on this road now (this lonely road)\\
+        Feeling so alone\\
+        Take me home (this lonely road)\\
+        Mm, I'm on this road now (this lonely road)\\
+        Feeling so alone\\
+        Take me home, mm\\" | markdownify }}
         </div>
 
 <div class="es post-container">
-    {{ "Sí, he estado así por tanto tiempo\
-        Se siente como si algo estuviera mal cuando no estoy deprimido\
-        Tengo algunos problemas que no abordaré\
-        Tengo algo de equipaje que aún no he abierto\\
-        Tengo algunos demonios que debería dejar descansar\
-        Tengo algunos traumas que no puedo olvidar\
-        Recibí algunas llamadas telefónicas que he estado evitando\
-        Algunos miembros de la familia con los que realmente no me conecto\\
-        Algunas cosas que dije desearía no haberlas dejado escapar\
-        Algunas palabras hirientes que nunca debieron haber salido de mis labios\
-        Algunos puentes se quemaron, todavía no estoy listo para reconstruirlos\
-        Algunas inseguridades con las que no he lidiado, sí\\
-        Seré el primero en admitir que soy un alma solitaria\
-        Y el último en admitir que necesito una mano para sostenerme\
-        Perdiendo la esperanza, yendo por un camino peligroso\
-        Es extraño, lo sé, pero me siento más como en casa cuando estoy" | markdownify }}
+    {{ "" | markdownify }}
 </div>
 
-<div class="iframe-youtube"><iframe src="https://www.youtube-nocookie.com/embed/vhumOLNSSJY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-youtube"><iframe src="https://www.youtube.com/embed/b6-JNeXxN3s?si=90UhUgem17v-KOb1&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
