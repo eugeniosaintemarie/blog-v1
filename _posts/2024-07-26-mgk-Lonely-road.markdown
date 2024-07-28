@@ -15,7 +15,8 @@ tags:
 
 <div class="en post-container">
     {{ "Lonely road, take me home\\
-        Take me home, lonely road\\\\
+        Take me home, lonely road\\
+        \\
         I'ma go downtown\\
         Ain't been in a long time\\
         I'm takin' back Sundays\\
@@ -28,7 +29,7 @@ tags:
         And your horns started showin' when I seen you mad\\
         But I'll wait for you 'cause this is not the face I knew\\
         I probably could've saved us, but instead, I let us crash\\
-        'Cause I don't trust no one to love me back, but she say, "I do"\\
+        'Cause I don't trust no one to love me back, but she say, 'I do'\\
         And this is not the place for you\\
         Lonely road, take me home\\
         To the place that we went wrong\\
@@ -43,7 +44,7 @@ tags:
         And your horn started showin' when I see you mad\\
         But I'll wait for you 'cause this is not the face I knew\\
         And I probably could've saved us, but instead, I let us crash\\
-        'Cause I don't trust no one to love me back, but you say, "I do"\\
+        'Cause I don't trust no one to love me back, but you say, 'I do'\\
         And this is not the place for you\\
         Lonely road, take me home\\
         To the place that we went wrong\\
@@ -65,7 +66,7 @@ tags:
         Take me home (this lonely road)\\
         Mm, I'm on this road now (this lonely road)\\
         Feeling so alone\\
-        Take me home, mm\\" | markdownify }}
+        Take me home, mm" | markdownify }}
         </div>
 
 <div class="es post-container">
