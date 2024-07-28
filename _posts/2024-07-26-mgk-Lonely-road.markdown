@@ -78,7 +78,67 @@ tags:
         </div>
 
 <div class="es post-container">
-    {{ "" | markdownify }}
+{{ "Camino solitario, llévame a casa\\
+    Llévame a casa, camino solitario\\
+    \\
+    Voy a ir al centro\\
+    No he estado en mucho tiempo\\
+    Estoy recuperando los domingos\\
+    Desde que me quitaste la vida (desde que me quitaste la vida)\\
+    Hay algunas cosas que sé ahora (mmh)\\
+    Un par de canciones que reescribiría (sí)\\
+    Empezar de nuevo como los lunes\\
+    Sirviendo fuerte en una noche de semana (mmh)\\
+    \\
+    Mira, escuché que el diablo viste de Prada, pero no pude leer las etiquetas\\
+    Y tus cuernos empezaron a mostrarse cuando te vi enojada\\
+    Pero esperaré por ti porque esta no es la cara que conocía\\
+    Probablemente podría habernos salvado, pero en cambio, dejé que nos estrelláramos\\
+    Porque no confío en nadie para que me ame de vuelta, pero ella dice, 'Sí'\\
+    Y este no es el lugar para ti\\
+    \\
+    Camino solitario, llévame a casa\\
+    Al lugar donde nos equivocamos\\
+    ¿Dónde fuiste ahora?\\
+    Ha sido una ciudad fantasma\\
+    Y todavía estoy aquí solo\\
+    \\
+    Cuando los días se sienten largos y las noches se vuelven frías\\
+    Y estoy a miles de millas de distancia (ah-ah-ah)\\
+    Uso alcohol solo para llenar ese vacío\\
+    ¿Nuestro hogar alguna vez será el mismo?\\
+    \\
+    Escuché que el diablo viste de Prada, pero no pude leer las etiquetas\\
+    Y tus cuernos empezaron a mostrarse cuando te vi enojada\\
+    Pero esperaré por ti porque esta no es la cara que conocía\\
+    Y probablemente podría habernos salvado, pero en cambio, dejé que nos estrelláramos\\
+    Porque no confío en nadie para que me ame de vuelta, pero tú dices, 'Sí'\\
+    Y este no es el lugar para ti\\
+    \\
+    Camino solitario, llévame a casa\\
+    Al lugar donde nos equivocamos\\
+    ¿Dónde fuiste ahora?\\
+    Ha sido una ciudad fantasma\\
+    Y todavía estoy aquí solo\\
+    \\
+    Y si pudieras salvar mi alma\\
+    ¿Sacrificarías esta vida para no morir solo?\\
+    Porque incluso un palacio no es un hogar sin ti\\
+    Así que podría irme pronto, pero quiero dejarte esta canción (hey)\\
+    \\
+    Camino solitario (camino solitario)\\
+    Llévame a casa (¿no me llevarás a casa?)\\
+    Al lugar donde nos equivocamos\\
+    ¿Dónde fuiste ahora? (¿Dónde fuiste ahora?)\\
+    Ha sido una ciudad fantasma\\
+    Y todavía estoy aquí solo (todavía estoy aquí)\\
+    \\
+    Sí, estoy en este camino ahora (este camino solitario)\\
+    Sintiendo tanta soledad\\
+    Llévame a casa (este camino solitario)\\
+    Mm, estoy en este camino ahora (este camino solitario)\\
+    Sintiendo tanta soledad\\
+    Llévame a casa, mm" | markdownify }}
 </div>
 
 <div class="iframe-youtube"><iframe src="https://www.youtube.com/embed/b6-JNeXxN3s?si=90UhUgem17v-KOb1&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
