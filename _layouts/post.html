@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% include intro-header.html type='post' %}
 <style>
   .intro-header::before {
@@ -25,7 +24,6 @@ layout: default
                 post-container">
         {% if page.multilingual %} {% include multilingual-sel.html %} {% endif
         %} {{ content }}
-
         <hr style="visibility: hidden;" />
         <ul class="pager">
           {% if page.previous.url %}
@@ -49,14 +47,12 @@ layout: default
           {% endif %}
         </ul>
         <hr style="visibility: hidden;" />
-
         {% if site.disqus_username %}
         <div class="comment">
           <div id="disqus_thread" class="disqus-thread"></div>
         </div>
         {% endif %}
       </div>
-
       {% if page.catalog %}
       <div class="
                 col-lg-2 col-lg-offset-0
@@ -72,7 +68,6 @@ layout: default
         </div>
       </div>
       {% endif %}
-
     </div>
     <!--<div class="sidebar-container
         col-lg-8 col-lg-offset-2
@@ -83,15 +78,12 @@ layout: default
   </div>
   </div>
 </article>
-
 {% if page.mathjax %} {% include mathjax_support.html %} {% endif %} {% if
 site.disqus_username %}
-
 <script type="text/javascript">
   var disqus_shortname = "{{site.disqus_username}}";
   var disqus_identifier = "{{page.id}}";
   var disqus_url = "{{site.url}}{{page.url}}";
-
   (function () {
     var dsq = document.createElement("script");
     dsq.type = "text/javascript";

@@ -5,19 +5,15 @@ description: ""
 header-img: "img/sys/about-bg.jpg"
 multilingual: true
 ---
-
 {% include multilingual-sel.html %}
-
 <div class="en post-container">
   {% capture about_en %}{% include about/en.md %}{% endcapture %} {{ about_en |
   markdownify }}
 </div>
-
 <div class="es post-container">
   {% capture about_es %}{% include about/es.md %}{% endcapture %} {{ about_es |
   markdownify }}
 </div>
-
 {% if site.disqus_username %}
 <div class="comment">
   <div id="disqus_thread" class="disqus-thread"></div>

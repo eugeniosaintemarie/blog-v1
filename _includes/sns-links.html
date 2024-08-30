@@ -1,13 +1,11 @@
 {% comment %}
 @param {Boolean} center
 {% endcomment %}
-
 {% if include.center %}
 <ul class="list-inline text-center">
   {% else %}
   <ul class="list-inline">
     {% endif %}
-
     {% if site.RSS %}
     <li>
       <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
@@ -58,8 +56,6 @@
       </a>
     </li>
     {% endif %}
-
     <!--sidebar widgets-->
     <iframe id="pinterest-iframe-buttlerfly" style="border: none !important; min-height: 200px !important;" src="https://petracoding.github.io/pinterest/board.html?link=eugeniosaintemarie/%CA%9A%C9%9E/&hideHeader=1&transparent=1"></iframe>
-
   </ul>

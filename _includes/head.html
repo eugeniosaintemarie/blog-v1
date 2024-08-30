@@ -13,7 +13,6 @@
     gtag('js', new Date());
     gtag('config', 'G-LNQ47VG50M');
   </script>
-
   <meta property="og:title"
     content="{% if page.title %}{{ site.SEOTitle }} • {{ page.title }}{% else %}{{ site.SEOTitle }}{% endif %}" />
   {% case page.layout %} {% when 'post' %}
@@ -33,23 +32,17 @@
   <meta property="og:image" content="{{ site.url }}{{ site.sidebar-avatar }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:site_name" content="{{ site.SEOTitle }}" />
-
   <title>
     {% if page.title %} {{ site.SEOTitle }} • {{ page.title }}{% else %}{{
     site.SEOTitle }}{% endif %}
   </title>
-
   <!--<link rel="icon"
     href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🦋</text></svg>">-->
   <link rel="shortcut icon" href="{{ site.baseurl }}/img/sys/favicon.ico" />
-
   <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
-
   <link rel="stylesheet" href="{{ "/css/notes.min.css" | prepend: site.baseurl }}">
-
   <!--<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
     type="text/css" />-->
-
   <link rel="manifest" href="{{ site.baseurl }}/pwa/manifest.json" />
   <link rel="apple-touch-icon" href="https://eugeniosaintemarie.github.io/notes/pwa/icons/icon-72x72.png" />
   <link rel="apple-touch-icon" href="https://eugeniosaintemarie.github.io/notes/pwa/icons/icon-96x96.png" />
@@ -61,12 +54,9 @@
   <link rel="apple-touch-icon" href="https://eugeniosaintemarie.github.io/notes/pwa/icons/icon-512x512.png" />
   <meta name="apple-mobile-web-app-status-bar" content="#ffffff" />
   <meta name="theme-color" content="#ffffff" />
-
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-
+  <link rel="canonical" href="{{ site.url | append: site.baseurl | append: page.url }}">
   <script src="https://kit.fontawesome.com/12db9cd0d1.js" crossorigin="anonymous"></script>
   <!--<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>-->
-
   <script></script>
 </head>

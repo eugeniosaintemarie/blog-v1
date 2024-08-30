@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
 {% include intro-header.html type='page' %}
-
 <div class="container">
   <div class="row">
     {% if site.sidebar == false %}
@@ -15,11 +13,9 @@ layout: default
                 col-md-10 col-md-offset-1
                 sidebar-container">
       {% include featured-tags.html %}
-
       {% include friends.html %}
     </div>
     {% else %}
-
     <div class="
                 col-lg-8 col-lg-offset-1
                 col-md-8 col-md-offset-1
@@ -37,15 +33,12 @@ layout: default
                 sidebar-container
             ">
       {% include featured-tags.html %}
-
       {% include short-about.html %}
-
       {% include friends.html %}
     </div>
     {% endif %}
   </div>
 </div>
-
 {% if site.page-mathjax %}
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
