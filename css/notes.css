@@ -272,7 +272,7 @@ button.paper-button {
   border: 0;
   font-size: 1em;
   line-height: 25px;
-  background-color: #fff;
+  /*background-color: #fff;*/
 }
 
 .paper-button input[type="submit"] {
