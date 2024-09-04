@@ -1,30 +1,27 @@
-(function () {
-  function queryString() {
-    let queryObj = {};
+(function ($) {
+  const queryString = () => {
+    const queryObj = {};
     const queryStr = window.location.search.substring(1);
     const queryArr = queryStr.split('&');
 
     queryArr.forEach(pairStr => {
-      const pair = pairStr.split('=');
-      const key = pair[0];
-      const value = pair[1] || '';
-
+      const [key, value = ''] = pairStr.split('=');
       if (typeof queryObj[key] === 'undefined') {
         queryObj[key] = value;
-      } else if (typeof queryObj[key] === 'string') {
-        queryObj[key] = [queryObj[key], value];
-      } else {
+      } else if (Array.isArray(queryObj[key])) {
         queryObj[key].push(value);
+      } else {
+        queryObj[key] = [queryObj[key], value];
       }
     });
 
     return queryObj;
-  }
+  };
 
   const setUrlQuery = (function () {
     const baseUrl = window.location.href.split('?')[0];
-    return function (query) {
-      const newUrl = typeof query === 'string' ? baseUrl + query : baseUrl;
+    return query => {
+      const newUrl = typeof query === 'string' ? `${baseUrl}?${query}` : baseUrl;
       window.history.replaceState(null, '', newUrl);
     };
   })();
@@ -35,56 +32,32 @@
     const $tagShowAll = $tags.find('.tag-button--all');
     const $result = $('.js-result');
     const $sections = $result.find('section');
-    const sectionArticles = [];
+    const sectionArticles = $sections.map((_, section) => $(section).find('.item')).get();
     let $lastFocusButton = null;
-    const sectionTopArticleIndex = [];
+    let sectionTopArticleIndex = 0;
     let hasInit = false;
 
-    $sections.each(function () {
-      sectionArticles.push($(this).find('.item'));
-    });
-
-    function init() {
-      let index = 0;
-      $sections.each(function (i) {
-        sectionTopArticleIndex.push(index);
-        index += $(this).find('.item').length;
-      });
-      sectionTopArticleIndex.push(index);
-    }
-
-    function searchButtonsByTag(_tag) {
-      if (!_tag) return $tagShowAll;
-      const _buttons = $articleTags.filter('[data-encode="' + _tag + '"]');
-      return _buttons.length === 0 ? $tagShowAll : _buttons;
+    function searchButtonsByTag(tag) {
+      return tag ? $articleTags.filter(`[data-encode="${tag}"]`) : $tagShowAll;
     }
 
     function buttonFocus(target) {
       if (target) {
+        $lastFocusButton?.removeClass('focus');
         target.addClass('focus');
-        $lastFocusButton && !$lastFocusButton.is(target) && $lastFocusButton.removeClass('focus');
         $lastFocusButton = target;
       }
     }
 
     function tagSelect(tag, target) {
-      const result = {};
+      const sectionVisibility = sectionArticles.map(articles =>
+        articles.map(article => !tag || $(article).data('tags').split(',').includes(tag))
+      );
 
-      sectionArticles.forEach(($articles, i) => {
-        $articles.each((j) => {
-          const tags = $articles.eq(j).data('tags').split(',');
-          if (!tag || tags.includes(tag)) {
-            result[i] = result[i] || {};
-            result[i][j] = true;
-          }
-        });
-      });
-
-      $sections.each((i) => {
-        const sectionResult = result[i];
-        sectionResult ? $sections.eq(i).removeClass('d-none') : $sections.eq(i).addClass('d-none');
-        sectionArticles[i].each((j) => {
-          sectionResult && sectionResult[j] ? sectionArticles[i].eq(j).removeClass('d-none') : sectionArticles[i].eq(j).addClass('d-none');
+      $sections.each((i, section) => {
+        $(section).toggleClass('d-none', !sectionVisibility[i].some(Boolean));
+        sectionArticles[i].each((j, article) => {
+          $(article).toggleClass('d-none', !sectionVisibility[i][j]);
         });
       });
 
@@ -96,10 +69,17 @@
       if (target) {
         buttonFocus(target);
         const _tag = target.attr('data-encode');
-        _tag ? setUrlQuery(`?tag=${_tag}`) : setUrlQuery();
+        setUrlQuery(_tag ? `tag=${_tag}` : '');
       } else {
         buttonFocus(searchButtonsByTag(tag));
       }
+    }
+
+    function init() {
+      sectionTopArticleIndex = 0;
+      $sections.each((_, section) => {
+        sectionTopArticleIndex += $(section).find('.item').length;
+      });
     }
 
     const query = queryString();
@@ -111,6 +91,5 @@
     $tags.on('click', 'a', function () {
       tagSelect($(this).data('encode'), $(this));
     });
-
   });
-})();
+})(jQuery);
