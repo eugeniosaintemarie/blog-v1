@@ -6463,8 +6463,8 @@
 
 		rlocalProtocol = /^(?:about|app|app-storage|.+-extension|file|res|widget):$/,
 		rnoContent = /^(?:GET|HEAD)$/,
-		rprotocol = /^\/\
-	rurl = /^([\w.+-]+:)(?:\/\/(?:[^\/?#]*@|)([^\/?#:]*)(?::(\d+)|)|)/,
+		rprotocol = /^\/$/,
+		rurl = /^([\w.+-]+:)(?:\/\/(?:[^\/?#]*@|)([^\/?#:]*)(?::(\d+)|)|)/,
 
 		prefilters = {},
 
