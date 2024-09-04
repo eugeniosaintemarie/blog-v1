@@ -1,65 +1,62 @@
 (function () {
   function queryString() {
-    var i = 0, queryObj = {}, pair;
-    var queryStr = window.location.search.substring(1);
-    var queryArr = queryStr.split('&');
-    for (i = 0; i < queryArr.length; i++) {
-      pair = queryArr[i].split('=');
-      if (typeof queryObj[pair[0]] === 'undefined') {
-        queryObj[pair[0]] = pair[1];
-      } else if (typeof queryObj[pair[0]] === 'string') {
-        queryObj[pair[0]] = [queryObj[pair[0]], pair[1]];
+    let queryObj = {};
+    const queryStr = window.location.search.substring(1);
+    const queryArr = queryStr.split('&');
+
+    queryArr.forEach(pairStr => {
+      const pair = pairStr.split('=');
+      const key = pair[0];
+      const value = pair[1] || '';
+
+      if (typeof queryObj[key] === 'undefined') {
+        queryObj[key] = value;
+      } else if (typeof queryObj[key] === 'string') {
+        queryObj[key] = [queryObj[key], value];
       } else {
-        queryObj[pair[0]].push(pair[1]);
+        queryObj[key].push(value);
       }
-    }
+    });
+
     return queryObj;
   }
 
-  var setUrlQuery = (function () {
-    var baseUrl = window.location.href.split('?')[0];
+  const setUrlQuery = (function () {
+    const baseUrl = window.location.href.split('?')[0];
     return function (query) {
-      if (typeof query === 'string') {
-        window.history.replaceState(null, '', baseUrl + query);
-      } else {
-        window.history.replaceState(null, '', baseUrl);
-      }
+      const newUrl = typeof query === 'string' ? baseUrl + query : baseUrl;
+      window.history.replaceState(null, '', newUrl);
     };
   })();
 
   $(document).ready(function () {
-    var $tags = $('.js-tags');
-    var $articleTags = $tags.find('.tag-button');
-    var $tagShowAll = $tags.find('.tag-button--all');
-    var $result = $('.js-result');
-    var $sections = $result.find('section');
-    var sectionArticles = []
-    var $lastFocusButton = null;
-    var sectionTopArticleIndex = [];
-    var hasInit = false;
+    const $tags = $('.js-tags');
+    const $articleTags = $tags.find('.tag-button');
+    const $tagShowAll = $tags.find('.tag-button--all');
+    const $result = $('.js-result');
+    const $sections = $result.find('section');
+    const sectionArticles = [];
+    let $lastFocusButton = null;
+    const sectionTopArticleIndex = [];
+    let hasInit = false;
 
     $sections.each(function () {
       sectionArticles.push($(this).find('.item'));
     });
 
     function init() {
-      var i, index = 0;
-      for (i = 0; i < $sections.length; i++) {
+      let index = 0;
+      $sections.each(function (i) {
         sectionTopArticleIndex.push(index);
-        index += $sections.eq(i).find('.item').length;
-      }
+        index += $(this).find('.item').length;
+      });
       sectionTopArticleIndex.push(index);
     }
 
     function searchButtonsByTag(_tag) {
-      if (!_tag) {
-        return $tagShowAll;
-      }
-      var _buttons = $articleTags.filter('[data-encode="' + _tag + '"]');
-      if (_buttons.length === 0) {
-        return $tagShowAll;
-      }
-      return _buttons;
+      if (!_tag) return $tagShowAll;
+      const _buttons = $articleTags.filter('[data-encode="' + _tag + '"]');
+      return _buttons.length === 0 ? $tagShowAll : _buttons;
     }
 
     function buttonFocus(target) {
@@ -71,56 +68,42 @@
     }
 
     function tagSelect(tag, target) {
-      var result = {}, $articles;
-      var i, j, k, _tag;
+      const result = {};
 
-      for (i = 0; i < sectionArticles.length; i++) {
-        $articles = sectionArticles[i];
-        for (j = 0; j < $articles.length; j++) {
-          if (tag === '' || tag === undefined) {
-            result[i] || (result[i] = {});
+      sectionArticles.forEach(($articles, i) => {
+        $articles.each((j) => {
+          const tags = $articles.eq(j).data('tags').split(',');
+          if (!tag || tags.includes(tag)) {
+            result[i] = result[i] || {};
             result[i][j] = true;
-          } else {
-            var tags = $articles.eq(j).data('tags').split(',');
-            for (k = 0; k < tags.length; k++) {
-              if (tags[k] === tag) {
-                result[i] || (result[i] = {});
-                result[i][j] = true; break;
-              }
-            }
           }
-        }
-      }
+        });
+      });
 
-      for (i = 0; i < sectionArticles.length; i++) {
-        result[i] && $sections.eq(i).removeClass('d-none');
-        result[i] || $sections.eq(i).addClass('d-none');
-        for (j = 0; j < sectionArticles[i].length; j++) {
-          if (result[i] && result[i][j]) {
-            sectionArticles[i].eq(j).removeClass('d-none');
-          } else {
-            sectionArticles[i].eq(j).addClass('d-none');
-          }
-        }
-      }
+      $sections.each((i) => {
+        const sectionResult = result[i];
+        sectionResult ? $sections.eq(i).removeClass('d-none') : $sections.eq(i).addClass('d-none');
+        sectionArticles[i].each((j) => {
+          sectionResult && sectionResult[j] ? sectionArticles[i].eq(j).removeClass('d-none') : sectionArticles[i].eq(j).addClass('d-none');
+        });
+      });
 
-      hasInit || ($result.removeClass('d-none'), hasInit = true);
+      if (!hasInit) {
+        $result.removeClass('d-none');
+        hasInit = true;
+      }
 
       if (target) {
         buttonFocus(target);
-        _tag = target.attr('data-encode');
-        if (_tag === '' || typeof _tag !== 'string') {
-          setUrlQuery();
-        } else {
-          setUrlQuery('?tag=' + _tag);
-        }
+        const _tag = target.attr('data-encode');
+        _tag ? setUrlQuery(`?tag=${_tag}`) : setUrlQuery();
       } else {
         buttonFocus(searchButtonsByTag(tag));
       }
     }
 
-    var query = queryString(),
-      _tag = query.tag;
+    const query = queryString();
+    const _tag = query.tag;
 
     init();
     tagSelect(_tag);
