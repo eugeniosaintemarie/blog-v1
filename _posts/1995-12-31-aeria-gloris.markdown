@@ -9,7 +9,7 @@ subtitle:     ""
 author:       "Ghost In The Shell"
 date:         1995-12-31 
 tags:
-            - Culture
+            - Philosophy
 ---
 
 <div class="en post-container">

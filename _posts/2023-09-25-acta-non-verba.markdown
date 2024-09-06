@@ -9,7 +9,7 @@ subtitle:     "Actions over promises"
 author:       ""
 date:         2023-09-25 
 tags:
-            - Culture
+            - Philosophy
 ---
 
 <div class="en post-container">
