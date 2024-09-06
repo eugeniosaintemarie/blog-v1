@@ -6,7 +6,7 @@ multilingual: true
 catalog:      false
 title:        "Society"
 subtitle:     "hello_friend.mov"
-author:       ""
+author:       "Mr. Robot"
 date:         2019-12-29 
 tags:
             - Movies/Shows

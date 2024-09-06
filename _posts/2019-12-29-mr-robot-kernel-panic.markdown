@@ -6,7 +6,7 @@ multilingual: true
 catalog:      false
 title:        "God"
 subtitle:     "k3rnel-pan1c.ksd"
-author:       ""
+author:       "Mr. Robot"
 date:         2019-12-29 
 tags:
             - Movies/Shows

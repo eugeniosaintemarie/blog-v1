@@ -5,8 +5,8 @@ header-img:   ""
 multilingual: true
 catalog:      false
 title:        "All things change in a dynamic environment"
-subtitle:     "Ghost in the shell (1995)"
-author:       ""
+subtitle:     ""
+author:       "Ghost in the shell (1995)"
 date:         2024-09-05 
 tags:
             - Movies/Shows
