@@ -1,6 +1,6 @@
 ---
 layout:       post
-header-style: 
+header-style: text
 header-img:   ""
 multilingual: true
 catalog:      false
@@ -13,9 +13,9 @@ tags:
 ---
 
 <div class="en post-container">
-    {{ "All things change in a dynamic environment. Your effort to remain what you are is what limits you." | markdownify }}
+    {{ "''All things change in a dynamic environment. Your effort to remain what you are is what limits you.''" | markdownify }}
 </div>
 
 <div class="es post-container">
-    {{ "Todas las cosas cambian en un entorno dinámico. Tu esfuerzo por seguir siendo lo que eres es lo que te limita." | markdownify }}
+    {{ "''Todas las cosas cambian en un entorno dinámico. Tu esfuerzo por seguir siendo lo que eres es lo que te limita.''" | markdownify }}
 </div>
