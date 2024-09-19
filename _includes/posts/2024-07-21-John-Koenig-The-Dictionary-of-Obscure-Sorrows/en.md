@@ -158,7 +158,7 @@ adj. feeling lonely in a crowd; drifting along in a sea of anonymous faces but u
 
 
 
-###  [!Anemoia]({{site.baseurl}}/2023/10/22/John-Koenig-anemoia/)
+###  [Anemoia]({{site.baseurl}}/2023/10/22/John-Koenig-anemoia/)
 ***Nostalgia for a time you never experienced***
 Looking at old photos, it’s hard not to feel a kind of wanderlust. A pang of nostalgia, for an era you never lived through. Longing to step through the frame into a world of black and white, if only to sit on the side of the road and watch the locals passing by.
 These are people who lived and died before any of us arrived here. Who sleep in some of the same houses we do, and look up at the same moon. Who breathe the same air, feel the same blood in their veins—and live in a completely different world.
@@ -231,7 +231,7 @@ n. the awareness that although a certain experience may strike you as utterly un
 
 
 
-### Dès Vu
+### Dès vu
 ***The awareness that this moment will become a memory***
 You were born on a moving train. Even though it feels like you’re holding still, time is sweeping past you, right where you sit. But once in a while you look up, and start to feel the inertia, sensing the present moment already turning into a memory, even as it’s still happening. Somehow you know in advance that you’re going to remember this day for years to come.
 You can almost feel the presence of your future self, looking back on this moment. Of course, by then it’ll mean something very different. Maybe you’ll cringe and laugh, or brim with pride, aching to return. Or you’ll focus in on some random detail hidden in the scene—a future landmark making its first appearance, or discreetly taking its final bow.
@@ -278,7 +278,7 @@ n. the sadness that you’ll never be able to know how history will turn out, th
 
 
 
-### future-tense
+### Future-tense
 adj. sensing the judgment of your future self looking over your shoulder—chuckling at your well-laid plans or clutching their pearls at the risky move you’re about to make—which leaves you faintly wary of their opinion, even though you know they’d take your place in a heartbeat.
 >From future (the grammatical tense) + tense.
 

@@ -1,365 +1,365 @@
 ### Chrysalism
-n. the amniotic tranquility of being indoors during a thunderstorm.
->Latin chrysalis, the pupa of a butterfly. Pronounced “kris-uh-liz-uhm.”
+n. la tranquilidad amniótica de estar en interiores durante una tormenta.
+>Latín chrysalis, la crisálida de una mariposa. Se pronuncia “kris-uh-liz-uhm”.
 
 
 
 ### Looseleft
-adj. feeling a sense of loss upon finishing a good book, sensing the weight of the back cover locking away the lives of characters you’ve gotten to know so well.
->From looseleaf, a removable sheet of paper + left, departed.
+adj. sentir una sensación de pérdida al terminar un buen libro, percibiendo el peso de la contraportada que encierra las vidas de personajes que has llegado a conocer tan bien.
+>De hoja suelta, una hoja de papel removible + left, se fue.
 
 
 
 ### Slipfast
-adj. longing to disappear completely; to melt into a crowd and become invisible, so you can take in the world without having to take part in it—free to wander through conversations without ever leaving footprints, free to dive deep into things without worrying about making a splash.
->From slip, to move or fly away in secret + fast, fortified against attack.
+adj. el anhelo de desaparecer por completo; fundirse en una multitud y volverse invisible, para poder absorber el mundo sin tener que participar en él—libre para vagar por conversaciones sin dejar huellas, libre para sumergirte en cosas sin preocuparte por hacer ruido.
+>De slip, moverse o volar en secreto + fast, fortificado contra ataque.
 
 
 
 ### Exulansis
-n. the tendency to give up trying to talk about an experience because people are unable to relate to it—whether through envy or pity or mere foreignness—which allows it to drift away from the rest of your story, until it feels out of place, almost mythical, wandering restlessly in the fog, no longer even looking for a place to land.
->Latin exulans, exile, wanderer, derived from the Latin name of the Wandering Albatross, diomedea exulans, who spend most of their life in flight, rarely landing, going hours without even flapping their wings. The albatross is a symbol of good luck, a curse, and a burden, and sometimes all three at once. Pronounced “ek-suh-lan-sis.”
+n. la tendencia a dejar de intentar hablar de una experiencia porque las personas no pueden relacionarse con ella, ya sea por envidia, compasión o simple extrañeza, lo que permite que se aleje del resto de tu historia, hasta que parece fuera de lugar, casi mítica, vagando inquietamente en la niebla, sin siquiera buscar un lugar donde aterrizar.
+>Latín exulans, exiliado, errante, derivado del nombre latino del albatros errante, diomedea exulans, que pasa la mayor parte de su vida en vuelo, aterrizando rara vez, y puede pasar horas sin batir sus alas. El albatros es un símbolo de buena suerte, maldición y carga, y a veces las tres al mismo tiempo. Se pronuncia “ek-suh-lan-sis.”
 
 
 
 ### The kick drop
-n. the moment you wake up from an immersive dream and have to abruptly recalibrate to the real world—unquitting your job, falling right back out of love, reburying your lost loved ones.
->In American football, the drop kick is when a player drops the ball and kicks it as it bounces off the ground, used as a method of restarting play.
+n. el momento en que te despiertas de un sueño inmersivo y tienes que recalibrarte abruptamente al mundo real—devolviendo tu trabajo, volviendo a desenamorarte, enterrando nuevamente a tus seres queridos perdidos.
+>En el fútbol americano, la drop kick es cuando un jugador deja caer el balón y lo patea mientras rebota en el suelo, usado como método para reiniciar el juego.
 
 
 
 ### Nighthawk
-n. a recurring thought that only seems to strike you late at night—an overdue task, a nagging guilt, a looming future—which you sometimes manage to forget for weeks, only to feel it land on your shoulder once again, quietly building a nest.
->Nighthawks is a famous painting by Edward Hopper, depicting a lonely corner diner late at night. In logging, a nighthawk is a metal ball that slid up and down a riverboat’s flagpole, to aid pilots in navigation.
+n. un pensamiento recurrente que solo parece asaltarte tarde en la noche—una tarea pendiente, una culpa persistente, un futuro inminente—que a veces logras olvidar durante semanas, solo para sentir que se posa en tu hombro una vez más, construyendo en silencio un nido.
+>Nighthawks es una famosa pintura de Edward Hopper, que representa un restaurante de esquina solitario a altas horas de la noche. En la industria maderera, un nighthawk es una bola de metal que se desliza por el mástil de la bandera de un barco fluvial, para ayudar a los pilotos en la navegación.
 
 
 
 ### Keep
-n. an important part of your personality that others seldom see—a secret flaw, a hidden talent, trauma that never comes up, dreams you never mention—that remains a vital part of who you are even if nobody knows it’s there, like the sprawling archives in the attics of museums, packed with works far too priceless to risk being displayed for the public.
->From a keep, the innermost tower of a castle.
+n. una parte importante de tu personalidad que otros rara vez ven—un defecto secreto, un talento oculto, un trauma que nunca se menciona, sueños que nunca compartes—que sigue siendo una parte vital de quién eres, incluso si nadie sabe que está allí, como los vastos archivos en los áticos de los museos, repletos de obras demasiado valiosas para arriesgarse a mostrarlas al público.
+>De keep, la torre más interna de un castillo.
 
 
 
 ### Endzoned
-n. the hollow feeling of having gotten exactly what you thought you wanted, only to learn that it didn’t make you happy.
->In sports, the endzone is the final goal, the end of the line—but at a certain point you have to drop the ball.
+n. la sensación de vacío al haber conseguido exactamente lo que pensabas que querías, solo para descubrir que no te hace feliz.
+>En los deportes, la zona de anotación (endzone) es la meta final, el fin de la línea—pero en cierto punto tienes que soltar el balón.
 
 
 
 ### 1202
-n. the tipping point when your brain becomes so overwhelmed with tasks you need to do, you feel too guilty to put anything off until later, prioritizing every little thing at the top of the list, leaving you immobilized.
->During the lunar descent of Apollo 11, the “1202” alarm sounded just before landing, indicating that the computer was receiving more data than it could process. Pronounced “twelve oh two.”
+n. el punto de inflexión en el que tu cerebro se siente tan abrumado por las tareas que necesitas hacer, que te sientes demasiado culpable como para posponer algo, priorizando cada pequeña cosa al principio de la lista, lo que te deja inmovilizado.
+>Durante el descenso lunar del Apolo 11, la alarma “1202” sonó justo antes del aterrizaje, indicando que la computadora estaba recibiendo más datos de los que podía procesar. Se pronuncia “doce cero dos.”
 
 
 
 ### Symptomania
-n. the fantasy that there’s some elaborate diagnosis out there that neatly captures the kind of person you are, tying together your many flaws and contradictions into a single theme—which wouldn’t necessarily sort out the mess inside your head but would at least let you mark it with a little sign so people know to walk around it.
->From symptom + mania.
+n. la fantasía de que existe algún diagnóstico elaborado que captura perfectamente el tipo de persona que eres, uniendo tus muchos defectos y contradicciones en un solo tema—lo que no necesariamente resolvería el desorden dentro de tu cabeza, pero al menos te permitiría marcarlo con un pequeño cartel para que la gente sepa rodearlo.
+>De síntoma + manía.
 
 
 
 ### Hiddled
-adj. feeling the loneliness of having to keep a secret to yourself.
->Old English hidil, hiding place. Pronounced “hid-ld.”
+adj. sentir la soledad de tener que guardar un secreto para ti mismo.
+>Inglés antiguo hidil, lugar para esconderse. Se pronuncia “hid-ld.”
 
 
 
 ### Moment of tangency
-***A fleeting glimpse of what might have been***
-ou and I have never met, many times before. Our paths might have crossed once or twice online, or while passing in the street. We might have spent an hour sitting back-to-back at the same airport gate, or even exchanged a few words over the phone, when I dialed your number by mistake. For all we know, we might have been living in the same neighborhood for decades—but against incredible odds, we just happened to miss each other. It’s a big world, after all.
-Our days must be filled with these chance encounters, that for a million tiny reasons, never actually happen. Our streets must be teeming with accidental strangers, who just happened to miss their cue—who share everything in common, except for time and place. For years, their stories might’ve been happening in parallel, harmonizing from somewhere across the world, but neither has any idea that the other even exists. If two lines are truly parallel, it means they’ll never actually meet.
-It’s hard not to think of your own near-misses, veering away on a tangent in some alternate universe. The person who would’ve been your best friend in the world might be out there somewhere, milling around a party you weren’t invited to. Your business partner might be sitting on half of a world-changing idea, waiting for your contribution to arrive, though it never will. It’s hard not to glance at a stranger in a crowd and imagine the life you might have shared, if only things had been different—feeling a pang of missed connection as you carry on your separate ways, leaving nothing but an echo of something that might have been.
-You never know how many things had to happen exactly right for you to meet the one you love. You never know how easily fate might have tipped you onto some other course, meeting some stranger, who might have felt like a soulmate. As you sit there on your commuter train, wrapped up in your own concerns, you have no way of knowing how close you’re sitting to the person you might have loved, who you might have spent years with, even built a family. You would have looked across the room at this same face, and struggled to imagine life without them, telling yourself that it was always meant to be. As if you had known all along that your paths would cross eventually.
-Maybe you were always destined to be sitting right where you’re sitting. Or maybe it’s a miracle that you managed to meet the people you did, knowing how many obstacles might have gotten in the way. Or maybe it’s nothing personal, and it was all just a coincidence. You never know.
->In geometry, a tangent is the point at which a line “just touches” a curve, where they share precisely the same angle, before separating again and carrying on to infinity.
+Un vistazo fugaz de lo que pudo haber sido
+Tú y yo nunca nos hemos encontrado, muchas veces antes. Nuestros caminos podrían haberse cruzado una o dos veces en línea, o al pasar en la calle. Tal vez pasamos una hora sentados espalda con espalda en la misma puerta de embarque del aeropuerto, o incluso intercambiamos algunas palabras por teléfono, cuando marqué tu número por error. Por lo que sabemos, podríamos haber estado viviendo en el mismo vecindario durante décadas—pero, contra todas las probabilidades, simplemente no coincidimos. Después de todo, es un mundo grande.
+Nuestros días deben estar llenos de estos encuentros fortuitos que, por un millón de pequeñas razones, nunca ocurren. Nuestras calles deben estar repletas de extraños accidentales, que simplemente no tomaron su turno—que comparten todo en común, excepto el tiempo y el lugar. Durante años, sus historias podrían haber estado ocurriendo en paralelo, armonizando desde algún lugar del mundo, pero ninguno tiene idea de que el otro siquiera existe. Si dos líneas son verdaderamente paralelas, significa que nunca se encontrarán.
+Es difícil no pensar en tus propios casi encuentros, desviándose en una tangente en algún universo alterno. La persona que habría sido tu mejor amigo en el mundo podría estar en algún lugar, rondando una fiesta a la que no fuiste invitado. Tu socio comercial podría estar sentado sobre la mitad de una idea que cambiaría el mundo, esperando tu contribución que nunca llegará. Es difícil no mirar a un extraño en la multitud e imaginar la vida que podrían haber compartido, si tan solo las cosas hubieran sido diferentes—sintiendo una punzada de desconexión mientras siguen sus caminos separados, dejando solo el eco de algo que pudo haber sido.
+Nunca sabes cuántas cosas tuvieron que suceder exactamente bien para que conocieras a quien amas. Nunca sabes con cuánta facilidad el destino podría haberte desviado hacia otro curso, encontrando a algún extraño, que podría haber parecido un alma gemela. Mientras te sientas en tu tren de cercanías, absorto en tus propios asuntos, no tienes forma de saber cuán cerca estás de la persona que podrías haber amado, con quien podrías haber pasado años, incluso formado una familia. Habrías mirado al otro lado de la habitación a este mismo rostro, y te habrías esforzado por imaginar la vida sin ellos, diciéndote que siempre estuvo destinado a ser así. Como si hubieras sabido todo el tiempo que eventualmente sus caminos se cruzarían.
+Tal vez siempre estuviste destinado a estar sentado justo donde estás. O tal vez es un milagro que hayas logrado conocer a las personas que conociste, sabiendo cuántos obstáculos podrían haberse interpuesto en el camino. O tal vez no es nada personal, y todo fue solo una coincidencia. Nunca lo sabes.
+>En geometría, una tangente es el punto en el que una línea "apenas toca" una curva, donde comparten exactamente el mismo ángulo, antes de separarse nuevamente y continuar hasta el infinito.
 
 
 
 ### Rivener
-n. a chilling hint of distance that creeps slowly into a relationship—beginning to notice them laugh a little less, look away a little more, explain away their mood like it’s no longer your business—as if you’re watching them fall out of love right in front of you, gradually and painfully, like a hole in the radiator that leaves your house a little colder with every passing day, whose only clue is a slow, unnerving drip—drip—drip.
->Middle English riven, to rend, to cleave apart. Pronounced “riv-uh-ner.”
+n. un escalofriante indicio de distancia que se desliza lentamente en una relación—comienzas a notar que se ríen un poco menos, desvían la mirada un poco más, explican su estado de ánimo como si ya no fuera de tu incumbencia—como si estuvieras viendo cómo se desenamoran justo frente a ti, de manera gradual y dolorosa, como un agujero en el radiador que deja tu casa un poco más fría cada día, cuya única pista es un lento y desconcertante goteo—goteo—goteo.
+>Inglés medio riven, desgarrar, separar. Se pronuncia “riv-uh-ner.”
 
 
 
 ### Dead reckoning
-v. intr. finding yourself bothered by somebody’s death more than you would have expected, even if they were only an abstract presence in your life, like a lighthouse in the distance that suddenly goes dark, leaving you with one less landmark to navigate by.
->In navigation, dead reckoning is the practice of using your prior course to extrapolate your subsequent position. It can be useful on starless nights but often leads to cumulative errors; if you don’t often check your position against new data, you might end up completely lost.
+v. intr. encontrarte más afectado por la muerte de alguien de lo que esperabas, incluso si solo era una presencia abstracta en tu vida, como un faro en la distancia que de repente se apaga, dejándote con un punto de referencia menos para navegar.
+>En navegación, el dead reckoning es la práctica de usar tu curso anterior para extrapolar tu posición subsecuente. Puede ser útil en noches sin estrellas, pero a menudo lleva a errores acumulativos; si no verificas tu posición con nuevos datos, podrías acabar completamente perdido.
 
 
 
 ### Mauerbauertraurigkeit
-n. the inexplicable urge to push people away, even close friends whose company you generally enjoy—like a poker player who keeps folding a promising hand in order to avoid the pain of losing, or tamp down the urge to go all-in.
->German Mauerbauer, wall-builder + Traurigkeit, sadness. Pronounced “mou-er-bou-er-trou-rikh-kahyt.”
+n. el impulso inexplicable de alejar a la gente, incluso a amigos cercanos cuya compañía generalmente disfrutas—como un jugador de póker que sigue retirándose de una mano prometedora para evitar el dolor de perder, o contener el impulso de ir all-in.
+>Alemán Mauerbauer, constructor de muros + Traurigkeit, tristeza. Se pronuncia “mou-er-bou-er-trou-rikh-kahyt.”
 
 
 
 ### Drisson
-n. an unexpected twinge of attraction for a friend; a flutter of desire you don’t necessarily want to feel, that didn’t even seem possible up until this point, when it suddenly becomes a problem you have to deal with.
->From frisson, a shiver of excitement + dribber, an inaccurate archer. Pronounced “dree-sawn.”
+n. un repentino y leve toque de atracción por un amigo; un aleteo de deseo que no necesariamente quieres sentir, que ni siquiera parecía posible hasta este momento, cuando de repente se convierte en un problema con el que tienes que lidiar.
+>De frisson, escalofrío de emoción + dribber, un arquero inexacto. Se pronuncia “dree-sawn.”
 
 
 
 ### Sitheless
-adj. feeling wistful upon brushing past a person you once shared a life with—noticing the same touch on the arm, seeing the same smile, hearing the same laugh you used to adore—suddenly all too aware that it’s no longer for you, and no longer carries the meaning it once did.
->Old English sithen, since then + natheless, not less by that. Pronounced “sih-thuh-les.”
+adj. sentir nostalgia al rozar a una persona con la que alguna vez compartiste una vida—notar el mismo toque en el brazo, ver la misma sonrisa, escuchar la misma risa que solías adorar—de repente siendo muy consciente de que ya no es para ti, y ya no lleva el significado que solía tener.
+>Inglés antiguo sithen, desde entonces + natheless, no menos por eso. Se pronuncia “sih-thuh-les.”
 
 
 
 ### Antiophobia
-n. a fear you sometimes experience while leaving a loved one, wondering if this will turn out to be the last time you’ll ever see them, and whatever slapdash good-bye you toss their way might have to serve as your final farewell.
->Greek αντίο (antío), farewell + -φοβία (-phobía), fear. Pronounced “an-tee-uh-foh-bee-uh.”
+n. un miedo que a veces experimentas al despedirte de un ser querido, preguntándote si esta será la última vez que lo verás, y si esa despedida apresurada que le lanzaste podría ser la última.
+>Griego αντίο (antío), despedida + -φοβία (-phobía), miedo. Se pronuncia “an-tee-uh-foh-bee-uh.”
 
 
 
 ### Thrapt
-adj. awed at the impact someone has had on your life, feeling intimidated by how profoundly they helped shape your identity, having served as a ghostwriter of a work that nevertheless only appears under your name.
->From thrapped, drawn tight, as with nautical ropes + rapt, carried away with emotion.
+adj. asombrado por el impacto que alguien ha tenido en tu vida, sintiéndote intimidado por lo profundamente que ayudó a moldear tu identidad, habiendo servido como escritor fantasma de una obra que, sin embargo, solo aparece bajo tu nombre.
+>De thrapped, apretado, como con cuerdas náuticas + rapt, arrebatado por la emoción.
 
 
 
 ### Sonder
-The realization that each random passerby is the main character of their own story, in which you are just an extra in the background.
+La comprensión de que cada transeúnte es el protagonista de su propia historia, en la que tú solo eres un extra en el fondo.
 
 
 
 ### Burn upon reentry
-n. the bitter disappointment upon finding no new messages after spending hours out of contact, as if the world had barely even noticed you had left.
->From the tendency of spacefaring objects to heat up upon reentering the atmosphere.
+n. la amarga decepción al no encontrar mensajes nuevos después de pasar horas fuera de contacto, como si el mundo apenas hubiera notado que te habías ido.
+>De la tendencia de los objetos espaciales a calentarse al reingresar en la atmósfera.
 
 
 
 ### Pax latrina
-n. the meditative atmosphere of being alone in a bathroom, sequestered inside your own little isolation booth, enjoying a moment backstage from the razzle-dazzle of public life.
->Latin pax, a period of peace + latrina, toilet. Compare Pax Romana or Pax Americana; sometimes the solace of bathroom stalls can feel just as profound as the protection of empires. Pronounced “paks luh-tree-nah.”
+n. la atmósfera meditativa de estar solo en un baño, aislado en tu pequeña cabina de aislamiento, disfrutando de un momento entre bastidores lejos del bullicio de la vida pública.
+>Latín pax, un período de paz + latrina, baño. Comparado con Pax Romana o Pax Americana; a veces la tranquilidad de los cubículos de baño puede sentirse tan profunda como la protección de los imperios. Se pronuncia “paks luh-tree-nah.”
 
 
 
 ### Anecdoche
-n. a conversation in which everyone is talking but nobody is listening—instead merely overlaying words like a spoken game of Scrabble, each player borrowing bits of others’ anecdotes to build out their own, until we reach a point when we all run out of things to say.
->From anecdote, a short and often amusing account of real-life events + synecdoche, a figure of speech in which a part stands for the whole. Pronounced “uh-nek-doh-kee.”
+n. una conversación en la que todos están hablando pero nadie está escuchando—superponiendo palabras como en un juego hablado de Scrabble, cada jugador tomando fragmentos de las anécdotas de los demás para construir la suya propia, hasta llegar a un punto en el que todos se quedan sin cosas que decir.
+>De anécdota, un relato breve y a menudo divertido de eventos de la vida real + sinécdoque, una figura retórica en la que una parte representa el todo. Se pronuncia “uh-nek-doh-kee.”
 
 
 
 ### Siso
-n. a solitary experience you wish you could have shared with someone else—having dinner in a romantic setting, reaching the summit after an arduous climb, having a run-in with a crazy stranger that nobody’s going to believe—which makes you look around for confirmation that it even happened at all.
->Welsh si-so, see-saw, an invention that can only ever be enjoyed by multiple people; when used alone, it’s just a wonky bench. Pronounced “see-soh.”
+n. una experiencia solitaria que desearías haber compartido con alguien más—cenar en un entorno romántico, llegar a la cima después de una escalada ardua, encontrarte con un extraño loco que nadie va a creer—lo que te hace mirar a tu alrededor en busca de confirmación de que realmente sucedió.
+>Galés si-so, subibaja, un invento que solo puede disfrutarse con varias personas; cuando se usa solo, es solo un banco torcido. Se pronuncia “see-soh.”
 
 
 
 ### Covalent bond
-n. a moment of sudden involvement in a stranger’s personal life—rushing over to break up a fight, helping a teary-eyed parent struggling with a stroller, righting someone’s bike after a bad fall—that shatters the invisible glass box that usually surrounds us in public, the one we prefer to pretend is impenetrable, which somehow renders us unable to speak.
->From covalence, literally “shared strength.” In chemistry, a covalent bond describes the force that holds two atoms together upon sharing a loose outer shell of electron pairs. Pronounced “ko-vey-luhnt bond.”
+n. un momento de participación repentina en la vida personal de un desconocido—corriendo para detener una pelea, ayudando a un padre con los ojos llenos de lágrimas que lucha con un cochecito, enderezando la bicicleta de alguien después de una mala caída—que rompe la caja de vidrio invisible que generalmente nos rodea en público, esa que preferimos fingir que es impenetrable, lo que de alguna manera nos deja incapaces de hablar.
+>De covalencia, literalmente “fuerza compartida”. En química, un enlace covalente describe la fuerza que mantiene unidos a dos átomos al compartir una capa externa suelta de pares de electrones. Se pronuncia “ko-vey-luhnt bond.”
 
 
 
 ### Ledsome
-adj. feeling lonely in a crowd; drifting along in a sea of anonymous faces but unable to communicate with or confide in any of them.
->Middle English leed, countrymen, compatriots + lonesome.
+adj. sentirse solo en medio de una multitud; dejándose llevar en un mar de rostros anónimos pero incapaz de comunicarte o confiar en alguno de ellos.
+>Inglés medio leed, compatriotas + lonesome, solitario.
 
 
 
-###  [!Anemoia]({{site.baseurl}}/2023/10/22/John-Koenig-anemoia/)
-***Nostalgia for a time you never experienced***
-Looking at old photos, it’s hard not to feel a kind of wanderlust. A pang of nostalgia, for an era you never lived through. Longing to step through the frame into a world of black and white, if only to sit on the side of the road and watch the locals passing by.
-These are people who lived and died before any of us arrived here. Who sleep in some of the same houses we do, and look up at the same moon. Who breathe the same air, feel the same blood in their veins—and live in a completely different world.
-It’s a world still covered in dust from the frontier. A world of adults, whose lives are hammered out by hand. A world of front porches, of fires to light in the evening, of conversations over a fence. You’d feel the energy of the boulevards teeming with crowds, gathering to tell dirty jokes, awaiting news reports, or crisscrossing at random, just barely dodging the horses. You could hear the voices of hardscrabble homesteaders, calling in their children for their one and only family photo. Or look around at the architecture of the old city, whose ornate limestone canyons fade back into a ghostly haze, dotted here and there with people lounging in the windows, trying to escape the oppressive summer heat.
-You’d watch as they carry on with their lives, that seem so important. Trying to read their faces, or look into their eyes, so piercing and otherworldly, their gaze fixed elsewhere. They have no way of knowing that their story has already been written. If only they could look around the way you could, they could relax and soak in the atmosphere of the moment.
-Of course, to them, it wasn’t all flickering silence and grainy black-and-white. They saw vivid color rushing by in three dimensions, heard voices in deafening stereo, confronted smells they couldn’t escape. For them, nothing was ever simple. None of them knew for sure what this era meant, or that it was even an era to begin with. At the time, their world was real. Nothing was finished, and nothing was guaranteed.
-That world is now gone. If the past is a foreign country, we’re only tourists. We can’t expect to understand the locals or why they do what they do. We can only ask them to hold still, so we can capture a photo to take home with us. So we can pretend to ourselves that we’ve learned anything at all about who they were, and what it was like to live in another time.
-The photo itself means very little, in the end. Maybe all we ever wanted was the frame. So we could sit for a few minutes in a world of black-and-white, with clean borders that protect us from the rush of time. Like a tide pool just out of the reach of the waves—so clear and still, you can see your own reflection.
->Ancient Greek ἄνεμος (ánemos), wind + νόος (nóos), mind. Compare anemosis, which occurs when a tree is warped by strong air currents until it seems to bend backward, leaning into the wind. Pronounced “an-uh-moi-uh.”
+### [Anemoia](https://eugeniosaintemarie.github.io/notes/2023/10/22/John-Koenig-anemoia/?lang=es)
+Nostalgia por un tiempo que nunca experimentaste
+Mirar fotos antiguas, es difícil no sentir una especie de deseo de aventura. Un golpe de nostalgia por una era que nunca viviste. Anhelo de atravesar el marco y entrar en un mundo en blanco y negro, si solo fuera para sentarse al costado de la carretera y observar a los locales pasar.
+Estas son personas que vivieron y murieron antes de que ninguno de nosotros llegara aquí. Que duermen en algunas de las mismas casas en las que nosotros vivimos, y miran la misma luna. Que respiran el mismo aire, sienten la misma sangre en sus venas—y viven en un mundo completamente diferente.
+Es un mundo aún cubierto de polvo de la frontera. Un mundo de adultos, cuyas vidas están forjadas a mano. Un mundo de porches delanteros, de fuegos a encender por la tarde, de conversaciones sobre una cerca. Sentirías la energía de los bulevares llenos de gente, reuniéndose para contar chistes sucios, esperando informes de noticias, o cruzándose al azar, apenas esquivando los caballos. Podrías escuchar las voces de los pioneros duros, llamando a sus hijos para su única y única foto familiar. O mirar alrededor la arquitectura de la ciudad antigua, cuyos cañones de piedra caliza ornamentada se desvanecen en una neblina fantasmagórica, salpicada aquí y allá con personas descansando en las ventanas, tratando de escapar del sofocante calor veraniego.
+Verías cómo continúan con sus vidas, que parecen tan importantes. Tratando de leer sus rostros, o mirar en sus ojos, tan penetrantes y de otro mundo, con la mirada fija en otro lugar. No tienen forma de saber que su historia ya ha sido escrita. Si tan solo pudieran mirar alrededor como tú lo haces, podrían relajarse y absorber la atmósfera del momento.
+Por supuesto, para ellos, no era todo silencio parpadeante y blanco y negro granuloso. Ellos veían colores vivos pasando en tres dimensiones, escuchaban voces en estéreo ensordecedor, enfrentaban olores de los que no podían escapar. Para ellos, nada era simple. Ninguno sabía con certeza lo que significaba esta era, o que era una era para empezar. En ese momento, su mundo era real. Nada estaba terminado, y nada estaba garantizado.
+Ese mundo ahora se ha ido. Si el pasado es un país extranjero, solo somos turistas. No podemos esperar entender a los locales o por qué hacen lo que hacen. Solo podemos pedirles que se queden quietos, para que podamos capturar una foto para llevarnos a casa. Así podemos pretender que hemos aprendido algo sobre quiénes eran y cómo era vivir en otro tiempo.
+La foto misma significa muy poco, al final. Tal vez todo lo que realmente queríamos era el marco. Para que pudiéramos sentarnos unos minutos en un mundo en blanco y negro, con bordes limpios que nos protegen del torbellino del tiempo. Como una charca de mareas justo fuera del alcance de las olas—tan clara y tranquila, que puedes ver tu propio reflejo.
+>Del griego antiguo ἄνεμος (ánemos), viento + νόος (nóos), mente. Comparar con anemosis, que ocurre cuando un árbol es deformado por fuertes corrientes de aire hasta que parece inclinarse hacia atrás, inclinándose hacia el viento. Se pronuncia “an-uh-moi-uh.”
 
 
 
 ### Fellchaser
-n. a long-forgotten mistake from your past that could reappear at any time and rip your life apart, like a boomerang you tossed away years ago that’s only just now looping back around, which you’d have no idea how to handle because you have no idea what it is.
->From fell, to cause to fall by delivering a blow + molechaser, a low swooping throw of a boomerang.
+n. un error largamente olvidado de tu pasado que podría reaparecer en cualquier momento y destruir tu vida, como un boomerang que lanzaste hace años y que solo ahora está regresando, del cual no tendrías idea de cómo manejar porque no tienes idea de lo que es.
+>De fell, hacer caer al entregar un golpe + molechaser, un lanzamiento bajo de un boomerang.
 
 
 
 ### Morii
-***The desire to capture a fleeting experience***
-Strange how strong the instinct is: to see something incredible and reach for a camera. As if you’re trying to lend it some credibility. To prove that it’s real. That I was here.
-We live our lives in moments: in those rare experiences we stop to notice and carry with us, in the hopes of stringing them together, trying to tell a story. But even in the moment, you can already feel it start to fade. So you try to capture it and convert it into something that will last longer than just a flash.
-A photo can feel more real than its subject. It lets you build a version of the world that you can take with you. A world flattened and simple. A world that doesn’t change—that fits in the frame. A little brighter and more colorful, with everything under control.
-You can travel the globe looking for memories and still find yourself standing behind a camera, waiting for the world to hold still. With every click of the shutter, you’re trying to press Pause on your life. If only so you can feel a little more comfortable moving on, living in a world stuck on Play.
-A part of you knows you can’t take it with you. But that doesn’t stop you from trying. It doesn’t stop you from wondering, What if I could stay just a little longer? or What if we didn’t have to go? We try to capture moments as if we’re afraid they’ll escape. But they’ll get away eventually.
-So go ahead: take one last look, one more shot—so that years from now you can flip back through and try to relive it all over again. But maybe even then, you’ll be thinking to yourself, Ah well. I guess you had to be there.
->From memento mori, a small reminder of your mortality + torii, traditional Japanese gates that mark the threshold between the profane and the sacred. Pronounced “moh-ree.”
+El deseo de capturar una experiencia fugaz
+Es extraño cuán fuerte es el instinto: ver algo increíble y buscar una cámara. Como si intentaras darle alguna credibilidad. Probar que es real. Que estuve aquí.
+Vivimos nuestras vidas en momentos: en esas experiencias raras que nos detenemos a notar y llevamos con nosotros, con la esperanza de enlazarlas, tratando de contar una historia. Pero incluso en el momento, ya puedes sentir que comienza a desvanecerse. Así que intentas capturarlo y convertirlo en algo que durará más que solo un destello.
+Una foto puede sentirse más real que su sujeto. Te permite construir una versión del mundo que puedes llevar contigo. Un mundo aplanado y simple. Un mundo que no cambia—que cabe en el marco. Un poco más brillante y colorido, con todo bajo control.
+Puedes viajar por el mundo buscando recuerdos y aún encontrarte detrás de una cámara, esperando que el mundo se detenga. Con cada clic del obturador, estás tratando de presionar Pausa en tu vida. Aunque solo sea para sentirte un poco más cómodo avanzando, viviendo en un mundo atascado en Reproducir.
+Una parte de ti sabe que no puedes llevarlo contigo. Pero eso no te detiene de intentarlo. No te detiene de preguntarte, ¿Y si pudiera quedarme un poco más? o ¿Y si no tuviéramos que irnos? Tratamos de capturar momentos como si tuviéramos miedo de que se escapen. Pero eventualmente se irán.
+Así que adelante: echa un último vistazo, una toma más—para que años después puedas pasar las páginas y tratar de revivirlo todo de nuevo. Pero quizás incluso entonces, te estarás diciendo a ti mismo, Ah, bueno. Supongo que tenías que estar allí.
+>De memento mori, un pequeño recordatorio de tu mortalidad + torii, puertas tradicionales japonesas que marcan el umbral entre lo profano y lo sagrado. Se pronuncia “moh-ree.”
 
 
 
 ### Avenoir
-***The desire to see your memories in advance***
-We take it for granted that life moves forward. You build memories, you build momentum. But you move as a rower moves: facing backward. You can see where you’ve been, but not where you’re going. And your boat is steered by a younger version of you. It’s hard not to wonder what life would be like facing the other way.
-If your life ran backward, everything would have a sense of order, settling over time into a beautiful simplicity. You’d see your memories approaching for years and watch as they slowly became real. You’d know in advance which friendships will last, which days will prove important, and you could prepare in advance for upcoming mistakes. You wouldn’t have to wonder how much time you had left with people, or how their lives would turn out. You’d know from the start which week was the happiest you’ll ever be, so you could cherish every second of it, soaking it in while it lasts.
-Your life would expand into epic drama. The colors would get sharper, the world would feel bigger. One by one, you’d patch things up with old friends, enjoying one last conversation before you meet and go your separate ways. Your family would drift slowly together, finding each other again. You’d fall out of old habits until you could picture yourself becoming almost anything. You’d graduate backward through school, and gradually learn to forget, first the little things, then the big things, gradually stripping away everything you didn’t need to know. You’d become nothing other than yourself, reveling in your own weirdness.
-And then the world would finally earn your trust, until you’d think nothing of jumping freely into things, into the arms of other people. You’d remember what home feels like, and decide to move there for good. You’d grow smaller as the years pass, as if trying to give away everything you had before leaving. You’d try everything one last time, until it all felt new again. Then you’d start to notice that each summer feels longer than the last, until you reach the long coasting retirement of childhood.
-You’d become generous and give everything back. Pretty soon you’d run out of things to give, things to say, things to see. By then you’ll have found someone perfect, and they’ll become your world. And you will have left this world just as you found it. Nothing left to remember, nothing left to regret, with your whole life laid out in front of you, and your whole life left behind.
->French avenir, future + avoir, to have. Pronounced “av-uh-nwar.”
+El deseo de ver tus recuerdos por adelantado
+Damos por hecho que la vida avanza hacia adelante. Construyes recuerdos, construyes ímpetu. Pero te mueves como lo hace un remero: mirando hacia atrás. Puedes ver por dónde has estado, pero no hacia dónde vas. Y tu bote es dirigido por una versión más joven de ti mismo. Es difícil no preguntarse cómo sería la vida mirando en la otra dirección.
+Si tu vida corriera hacia atrás, todo tendría un sentido de orden, asentándose con el tiempo en una simplicidad hermosa. Verías tus recuerdos acercarse durante años y observarías cómo se vuelven reales lentamente. Sabrías de antemano qué amistades durarán, qué días resultarán importantes, y podrías prepararte para los errores futuros. No tendrías que preguntarte cuánto tiempo te queda con las personas, o cómo terminarán sus vidas. Sabrías desde el principio qué semana sería la más feliz que jamás tendrás, para que pudieras atesorar cada segundo, empapándote mientras dure.
+Tu vida se expandiría en una drama épico. Los colores se volverían más nítidos, el mundo se sentiría más grande. Uno a uno, arreglarías las cosas con viejos amigos, disfrutando una última conversación antes de encontrarse y seguir caminos separados. Tu familia se uniría lentamente, encontrándose de nuevo. Caerías en viejos hábitos hasta que pudieras imaginarte convirtiéndote en casi cualquier cosa. Te graduarías hacia atrás en la escuela, y gradualmente aprenderías a olvidar, primero las cosas pequeñas, luego las grandes, despojándote poco a poco de todo lo que no necesitabas saber. Te convertirías en nada más que tú mismo, deleitándote en tu propia rareza.
+Y luego el mundo finalmente ganaría tu confianza, hasta que pensarías nada de saltar libremente hacia las cosas, en los brazos de otras personas. Recordarías cómo se siente el hogar, y decidirías mudarte allí para siempre. Te volverías más pequeño a medida que pasan los años, como si intentaras dar todo lo que tenías antes de partir. Intentarías todo una vez más, hasta que todo se sintiera nuevo de nuevo. Luego comenzarías a notar que cada verano se siente más largo que el anterior, hasta que llegues al largo retiro de la infancia.
+Te volverías generoso y devolverías todo. Pronto te quedarías sin cosas que dar, cosas que decir, cosas que ver. Para entonces habrás encontrado a alguien perfecto, y ellos se convertirán en tu mundo. Y habrás dejado este mundo tal como lo encontraste. Nada que recordar, nada que lamentar, con toda tu vida extendida frente a ti, y toda tu vida dejada atrás.
+>Del francés avenir, futuro + avoir, tener. Se pronuncia “av-uh-nwar.”
 
 
 
 ### Clockwise
-adj. aware that you’ll only ever be a certain age relative to your loved ones, only seeing them from one arbitrary angle across the decades—never knowing your mother in her rebellious youth, never seeing your grandkid as anything other than a kid—because even though your life spans do happen to overlap, they’ll never quite line up.
->From clock + wise, pointedly aware of.
+adj. consciente de que solo serás una cierta edad en relación con tus seres queridos, solo viéndolos desde un ángulo arbitrario a lo largo de las décadas—nunca conociendo a tu madre en su juventud rebelde, nunca viendo a tu nieto como algo más que un niño—porque aunque las duraciones de tus vidas coinciden, nunca se alinean del todo.
+>De clock + wise, conscientemente.
 
 
 
 ### Tichloch
-***The anxiety of never knowing how much time you have left***
-Time is an odd sort of currency. You’re free to spend it or squander it as you will, but no matter how you choose to budget your remaining years, they’re only ever dispensed in tiny micropayments, cent by cent, heartbeat by heartbeat, tick after tock after tick.
-Which means you have no way of knowing how much of it you have left. Maybe you’re just now coming down to your last dime. Or maybe you’re sitting on a vast fortune, with many decades still to come—but even then, you’d have no way of knowing it until it’s too late, when you finally look around and conclude you must’ve been rich all along.
-But suppose it was possible to check your remaining balance, knowing exactly how many heartbeats you had left in your lifetime. Most human beings will top out at around two billion beats, more with good behavior. Would it feel humbling to see your life distilled into a string of digits, gently ticking down? Or would it feel oddly comforting? After all, if you knew your time was short, you’d have no reason not to live each day as if it was your last, knowing how close that was to being true. And if your number was still in the billions, you could bank on a long retirement, kicking back and taking a little time for yourself, feeling like a billionaire.
-At first. But then, in quiet moments, you’d start to notice a certain rhythm throbbing in your ears, like a clock you’d managed to tune out for months, only to hear it punctuate the silence with a tick, tick, tick. Whenever you settled down to sleep, you’d find it hard to ignore the feeling of your heart heaving around in its cage, pounding out its rhythm, which only seems to get faster the more you think about it. With every beat, you’d feel your fortune being withdrawn, cent by cent, a steady deposit of coins rattling down into a deep metal tray.
-How long would it be before you’d start hoarding time, turning over every moment in your mind, looking for a price tag? You’d become all too aware how much life you keep trading for a pittance of salary, aware that tying your shoelaces wrong will cost you twenty beats, that posting a comment online might set you back three hundred, all of which might’ve been better spent elsewhere. You’d come to the end of a bad movie and whisper to yourself with some urgency, “That’s two hours of my life I’m never getting back.”
-Alas. You’re never getting any of it back. It’s the cost of doing business. And even if you could have it appraised down to the fraction of a second, its value would be no clearer. Time has no inherent value. If it’s a currency, it’s a kind of fiat currency, in that you can’t just cash it in for anything solid. Which means it’s up to you to decide what it’s worth trading for.
-It may be a blessing that you never know how much time you have left, because it leaves you no other option but to listen to your heart and get into its rhythm, so you can focus on the things that make life worth living. So go ahead: make every second count, or don’t. Seize the day or while away the hours. All you have is this moment. That alone is a blessing. You’re almost out of time, and you have all the time in the world.
->Acronym of The Insatiable Crocodile Hunts (What’s) Left of Captain Hook. Pronounced “tik-lok.”
+La ansiedad de nunca saber cuánto tiempo te queda
+El tiempo es una especie extraña de moneda. Eres libre de gastarlo o desperdiciarlo como quieras, pero no importa cómo elijas presupuestar tus años restantes, solo se distribuye en pequeños micropagos, centavo por centavo, latido por latido, tictac tras tictac.
+Lo que significa que no tienes forma de saber cuánto te queda. Tal vez estás justo ahora llegando a tu último centavo. O tal vez estás sentado sobre una vasta fortuna, con muchas décadas aún por venir—pero incluso entonces, no tendrías forma de saberlo hasta que sea demasiado tarde, cuando finalmente mires alrededor y concluyas que debiste haber sido rico todo el tiempo.
+Pero supongamos que fuera posible verificar tu saldo restante, sabiendo exactamente cuántos latidos te quedan en tu vida. La mayoría de los seres humanos alcanzan alrededor de dos mil millones de latidos, más con buen comportamiento. ¿Se sentiría humillante ver tu vida destilada en una cadena de dígitos, disminuyendo suavemente? ¿O se sentiría extrañamente reconfortante? Después de todo, si supieras que tu tiempo es corto, no tendrías ninguna razón para no vivir cada día como si fuera el último, sabiendo cuán cerca estaba de ser verdad. Y si tu número aún estuviera en los miles de millones, podrías contar con una larga jubilación, relajándote y tomándote un tiempo para ti, sintiéndote como un millonario.
+Al principio. Pero luego, en momentos de calma, comenzarías a notar un cierto ritmo palpitante en tus oídos, como un reloj que lograste desintonizar durante meses, solo para escucharlo acentuar el silencio con un tic, tic, tic. Siempre que te acomodes para dormir, te costará ignorar la sensación de tu corazón golpeando alrededor de su jaula, marcando su ritmo, que solo parece acelerarse cuanto más piensas en ello. Con cada latido, sentirías tu fortuna siendo retirada, centavo a centavo, un depósito constante de monedas que caen en una profunda bandeja metálica.
+¿Cuánto tiempo pasaría antes de que comenzaras a acumular tiempo, revisando cada momento en tu mente, buscando una etiqueta de precio? Te volverías demasiado consciente de cuánto de la vida estás cambiando por una miseria de salario, consciente de que atarte los cordones de los zapatos incorrectamente te costará veinte latidos, que publicar un comentario en línea podría retrasarte trescientos, todo lo cual podría haberse gastado mejor en otro lugar. Llegarías al final de una mala película y susurrarías para ti mismo con algo de urgencia, “Esas son dos horas de mi vida que nunca recuperaré.”
+Lamentablemente. Nunca recuperarás nada de ello. Es el costo de hacer negocios. Y aunque pudieras tenerlo evaluado hasta la fracción de un segundo, su valor no sería más claro. El tiempo no tiene valor inherente. Si es una moneda, es una especie de moneda fiduciaria, en el sentido de que no puedes canjearla por nada sólido. Lo que significa que depende de ti decidir qué vale la pena intercambiar.
+Puede ser una bendición que nunca sepas cuánto tiempo te queda, porque no te deja otra opción que escuchar a tu corazón y seguir su ritmo, para que puedas concentrarte en las cosas que hacen que la vida valga la pena. Así que adelante: haz que cada segundo cuente, o no. Aprovecha el día o desperdicia las horas. Todo lo que tienes es este momento. Eso por sí solo es una bendición. Estás casi fuera de tiempo, y tienes todo el tiempo del mundo.
+>Acrónimo de The Insatiable Crocodile Hunts (What’s) Left of Captain Hook. Se pronuncia “tik-lok.”
 
 
 
 ### Zysia
-n. the sense that you were born too early in history, all too aware of how crude and backward the present can be, feeling tired of having to sit through so much clunky exposition and slow-burning suspense, when all you want to do is skip ahead to find out what happens next.
->A word tantalizingly close to being the last word of the dictionary, but not quite there. Pronounced “zee-zhah.”
+n. el sentimiento de haber nacido demasiado pronto en la historia, consciente de lo rudimentario y atrasado que puede ser el presente, sintiendo cansancio por tener que soportar tanta exposición torpe y suspense de lenta cocción, cuando todo lo que quieres hacer es adelantar y descubrir qué sucede a continuación.
+>Una palabra tentadoramente cerca de ser la última palabra del diccionario, pero no del todo allí. Se pronuncia “zee-zhah.”
 
 
 
 ### Heart of aces
-n. the awareness that although a certain experience may strike you as utterly unremarkable, it might be having a profound effect on other people nearby, who will remember every detail for the rest of their lives—having inspired the birth of a phobia, a fetish, a lifelong relationship, or a lifelong career.
->In poker and blackjack, the ace card can be valued either low or high; it’s up to the player to decide. Every day is an ace, which might end up being valuable or worthless, forgettable or unforgettable, depending on who’s playing and what else they’re holding in their hand.
+n. la conciencia de que aunque una cierta experiencia pueda parecerte totalmente intrascendente, podría estar teniendo un efecto profundo en otras personas cercanas, que recordarán cada detalle durante el resto de sus vidas—habiendo inspirado el nacimiento de una fobia, un fetiche, una relación de por vida o una carrera de por vida.
+>En el póker y el blackjack, la carta de as puede tener un valor bajo o alto; depende del jugador decidir. Cada día es un as, que podría terminar siendo valioso o inútil, olvidable o inolvidable, dependiendo de quién lo juega y qué más tienen en su mano.
 
 
 
-### Dès Vu
-***The awareness that this moment will become a memory***
-You were born on a moving train. Even though it feels like you’re holding still, time is sweeping past you, right where you sit. But once in a while you look up, and start to feel the inertia, sensing the present moment already turning into a memory, even as it’s still happening. Somehow you know in advance that you’re going to remember this day for years to come.
-You can almost feel the presence of your future self, looking back on this moment. Of course, by then it’ll mean something very different. Maybe you’ll cringe and laugh, or brim with pride, aching to return. Or you’ll focus in on some random detail hidden in the scene—a future landmark making its first appearance, or discreetly taking its final bow.
-So you look around the scene, trying to tell in advance what this moment is going to mean. It’s as if you’re walking through the memory while it’s still happening, feeling for all the world like a time traveler.
-You notice how strange it all seems. All the quaint little gadgets and fads and slang terms that never made all that much sense. All the faces around you, still so young and vibrant, fretting about the day’s concerns, not yet realizing that this world is already out of their hands. That all of this will soon be swept away and replaced by something different. And yet nobody is stopping to take it all in or revel in the nostalgia of a world that once was. For them, and for you, it’s still a bit too early for that.
-In a way, you really are a time traveler, leaping into the future in little, tentative steps. A part of you is like a kid stuck in a strange land without a map, with nothing to do but soak in the moment and take one last look before moving on. But another part of you is already an old man looking back on things, waiting at the door for his granddaughter, who’s trying to make her way home for a visit.
-You are two people, separated by an ocean of time. Part of you bursting to talk about what you saw. Part of you longing to tell you what it all means.
-French dès vu, seen as of now. Alternately sera vu, will be seen. Akin to the feeling of déjà vu, but in >the reverse order—already remembering something as you’re living it. Pronounced “dey voo.”
+### Dès vu
+La conciencia de que este momento se convertirá en un recuerdo
+Naciste en un tren en movimiento. Aunque sientas que estás inmóvil, el tiempo está barriendo pasado a ti, justo donde te sientas. Pero de vez en cuando miras hacia arriba, y comienzas a sentir la inercia, percibiendo el momento presente ya convirtiéndose en un recuerdo, incluso mientras aún está sucediendo. De alguna manera sabes de antemano que vas a recordar este día durante años.
+Casi puedes sentir la presencia de tu futuro yo, mirando hacia atrás en este momento. Por supuesto, para entonces significará algo muy diferente. Tal vez te sonrojarás y reirás, o te hincharás de orgullo, deseando regresar. O te concentrarás en algún detalle aleatorio escondido en la escena—un futuro punto de referencia haciendo su primera aparición, o tomando discretamente su última reverencia.
+Así que miras alrededor de la escena, tratando de adivinar de antemano lo que significará este momento. Es como si estuvieras caminando a través del recuerdo mientras aún está ocurriendo, sintiéndote por todo el mundo como un viajero en el tiempo.
+Notas lo extraño que parece todo. Todos los gadgets y modas y términos de argot anticuados que nunca tuvieron mucho sentido. Todas las caras a tu alrededor, todavía tan jóvenes y vibrantes, preocupadas por las preocupaciones del día, sin darse cuenta de que este mundo ya está fuera de sus manos. Que todo esto pronto será barrido y reemplazado por algo diferente. Y, sin embargo, nadie se detiene a absorberlo o a disfrutar de la nostalgia de un mundo que alguna vez fue. Para ellos, y para ti, todavía es un poco demasiado temprano para eso.
+De alguna manera, realmente eres un viajero del tiempo, saltando al futuro en pequeños pasos tentativos. Una parte de ti es como un niño atrapado en una tierra extraña sin un mapa, sin nada que hacer más que empaparse del momento y echar un último vistazo antes de seguir adelante. Pero otra parte de ti ya es un anciano mirando hacia atrás en las cosas, esperando en la puerta a su nieta, que está tratando de regresar a casa para una visita.
+Eres dos personas, separadas por un océano de tiempo. Parte de ti ansiosa por hablar sobre lo que viste. Parte de ti deseando contarte lo que todo significa.
+>Francés dès vu, visto como de ahora. Alternativamente sera vu, será visto. Parecido al sentimiento de déjà vu, pero en el orden inverso—ya recordando algo mientras lo estás viviendo. Se pronuncia “dey voo.”
 
 
 
 ### Olēka
-***The awareness of how few days are memorable***
-Your life is a highlight reel. You’d like to think that every moment has potential, that there’s something transcendent hidden all around. If you’d only stop to seize the day, you could hold on to it and carry it with you. But the truth is, most of life is forgotten instantly, almost as it’s happening. Chances are that even a day like today will slip through your fingers and dissolve into oblivion, washed clean by the tides.
-Another day, another week, another year: such is the rhythm of ordinary time. Filled with long, featureless stretches we tend to skip over to get to the good parts. The thousand acts of maintenance you have to do every day. The labor of keeping your body going, hauling it back and forth across the same stretch of road, no closer than you were the day before. You keep breathing in and out. Things fall apart; you clean up the mess. And it all washes away in the night, to be built up again in the morning. You keep throwing the week against the wall to see what sticks, hoping you’ll remember something that happened today. Anything.
-You begin to question how you’re spending your life, wondering if you’re wasting it. Spending so much energy just pushing back against the current, trying to keep your small boat afloat. Waiting for those singular moments that’ll make it all worthwhile, when you can finally say, “Eureka! I’ve found it!”
-But the rest of life is happening anyway, whether you’ll remember it or not. So you might as well say, “Olēka! I’ve lost it!” As if to mark the passage of yet another morsel of life, flushed down the hourglass. A final toast to the endless forgotten days, whose humble labor has given you everything you have, at least for the moment.
-As the song says: “Long live the high tide and long live the low, but above all, long live the difference.”
->Greek ἀπολώλεκα (apolóleka), I’ve lost it. The lyric quoted at the end is from Nada Surf’s song “Là Pour Ça.” In the original French: “Vive la marée haute et vive la basse, / Mais surtout vive la différence.” Pronounced “oh-lee-kuh.”
+La conciencia de cuántos pocos días son memorables
+Tu vida es un reel de momentos destacados. Te gustaría pensar que cada momento tiene potencial, que hay algo trascendental escondido a tu alrededor. Si solo te detuvieras para aprovechar el día, podrías aferrarte a él y llevarlo contigo. Pero la verdad es que la mayor parte de la vida se olvida instantáneamente, casi mientras está ocurriendo. Es probable que incluso un día como hoy se te escurra entre los dedos y se disuelva en el olvido, limpiado por las mareas.
+Otro día, otra semana, otro año: tal es el ritmo del tiempo ordinario. Lleno de largas extensiones sin rasgos que tendemos a saltar para llegar a las partes buenas. Los mil actos de mantenimiento que tienes que hacer todos los días. El trabajo de mantener tu cuerpo en marcha, arrastrándolo de un lado a otro por el mismo trecho de carretera, sin estar más cerca de lo que estabas el día anterior. Sigues respirando. Las cosas se desmoronan; limpias el desorden. Y todo se lava en la noche, para ser reconstruido en la mañana. Sigues arrojando la semana contra la pared para ver qué se queda, esperando recordar algo que ocurrió hoy. Cualquier cosa.
+Comienzas a cuestionar cómo estás gastando tu vida, preguntándote si la estás desperdiciando. Gastando tanta energía solo empujando contra la corriente, tratando de mantener tu pequeño bote a flote. Esperando esos momentos singulares que harán que todo valga la pena, cuando finalmente puedas decir, “¡Eureka! ¡Lo encontré!”
+Pero el resto de la vida está ocurriendo de todos modos, ya sea que lo recuerdes o no. Así que bien podrías decir, “¡Olēka! ¡Lo perdí!” Como si para marcar el paso de otro pedazo de vida, arrastrado por el reloj de arena. Un brindis final por los interminables días olvidados, cuyo humilde trabajo te ha dado todo lo que tienes, al menos por el momento.
+Como dice la canción: “Que vivan la marea alta y que viva la baja, / pero sobre todo, que viva la diferencia.”
+>Griego ἀπολώλεκα (apolóleka), he perdido. La letra citada al final es de la canción de Nada Surf “Là Pour Ça.” En francés original: “Vive la marée haute et vive la basse, / Mais surtout vive la différence.” Se pronuncia “oh-lee-kuh.”
 
 
 
-### Yu yi
-***The longing to feel things intensely again***
-The first note is always the loudest. The conductor snaps their baton, the strings slash their bows, and the symphony thunders to life before settling down into a reverberating hum.
-So it is with every new experience. How quickly each feeling starts to fade as you recalibrate your expectations. Maybe that’s why your childhood could feel so intense, because you were steadily burning your way through a roster of firsts. The more you repeat an experience, the less you feel its impact, almost as if your brain is gradually tuning out the world.
-But sometimes you reach a point when you can’t feel anything at all, just a ringing in your ears—until like Beethoven, you find yourself pounding the keys of your life, trying to make the ground thunder below your feet. It makes you wish you could look around with fresh eyes, and feel things just as powerfully as you did when you felt them for the first time.
-When you were a kid, you could still get excited about things. You felt that pirate’s itch on the last day of school, the morning of your birthday, or the final turn toward your grandparents’ house. You could feel rich from the coins in your pocket or being offered a piece of gum. You remember how big the world used to be, how wandering into the next neighborhood felt like stepping into a foreign country. Adults swept over you like giants. Every rule was a decree, every sentence a life sentence.
-Time moved differently then, if it moved at all, arriving in big scholastic chunks, and each arrival felt major. You’d start up the school year like a witness protection program, ready to be assigned new teachers, new skills, a new identity. In the summer, you could make an afternoon last all week long, riding bikes with friends or watching a trickle of water feel its way through the dirt. There were no phones buzzing in your pockets, no schedules, no hormones, no distractions—or maybe it was all distractions. Whatever it was, you tried to keep it going as long as you could, even after the streetlights turned on in the evening and you heard voices in the dark, already calling you home.
-The kaleidoscope of your emotions spun wildly throughout the day, all of it intense. You could walk along howling or weeping or grinning like a goon. When you loved someone, you loved them openly and with abandon, squeezing hugs as hard as you could. When you found something funny, you could laugh so hard your diaphragm ached, your cheeks wet with tears, your temples throbbing. You could plunge into a book and come out gasping, stumble out of a movie looking at faces and colors differently, listen to a song on loop for weeks and feel it grab you by the throat every time. And you knew how to play, knew how to make your toys come alive in front of you, how to listen for their weird little voices.
-But somehow, even then, a part of you understood that this intensity wasn’t going to last. There were moments late in childhood when you tried going back to play with your old favorite toys again, almost as a guilty pleasure, only to find you couldn’t do it anymore. They looked just the same, as you turned them over in your hands—but suddenly they felt like bits of fabric and molded plastic, with nothing left to say.
-You’ll never feel same sense of peace you once felt, drifting off to sleep in the back seat of a car, only to find yourself teleported back into your own bed. You’ll never have friendships that occupy so much of your attention, spending hours together every day for months, which made even the slightest betrayal sting. You’ll never feel the mortifying terror of a middle-school bully or the heartrending agony of an unrequited crush. You should only hope that life never punches you in the gut the way it did then.
-Still, every once in a while you catch yourself humming along to some silly pop song that once broke your heart at sixteen, trying to tap back into that feeling again. That was once your entire life. It was only a matter of time before the world took notice and turned down the volume.
-The music is still in there somewhere, even if you can’t hear the notes. Besides, there’s some beauty left in echoes—in knowing you have a part to play and playing it well, in concert with those around you. And there are those rare moments when you can let yourself go, close your eyes and let your body move with the orchestra, the way that old trees swing back and forth in a windstorm.
-You have to wonder what you’re missing, closing your eyes like that. No matter; keep playing. Play as well as you can, and let some other soul get swept away for a moment or two. Until like Beethoven, you look up from the keys and ask yourself, “Ist es nicht schön?”
-“Is it not beautiful?”
->Ancient Chinese 余忆 (yú yì), I remember. Compare the Mandarin 玉衣 (yù yī), jade suit. Before their burial, the corpses of Han dynasty royals were clothed in ceremonial garments made of jade—a stone believed to have preservative properties. Even then, thousands of years ago, people were trying to protect themselves from the ravages of time by becoming “jaded.” Pronounced “yoo yee.”
+### Yu Yi
+El anhelo de sentir las cosas intensamente de nuevo
+La primera nota siempre es la más fuerte. El director de orquesta chasquea su batuta, las cuerdas rasgan sus arcos, y la sinfonía estalla en vida antes de asentarse en un zumbido reverberante.
+Así es con cada nueva experiencia. Qué tan rápido comienza a desvanecerse cada sentimiento a medida que recalibras tus expectativas. Tal vez por eso tu infancia podía sentirse tan intensa, porque estabas quemando de manera constante una lista de primeras veces. Cuanto más repites una experiencia, menos sientes su impacto, casi como si tu cerebro estuviera gradualmente sintonizando el mundo.
+Pero a veces llegas a un punto en el que no puedes sentir nada en absoluto, solo un zumbido en tus oídos—hasta que, como Beethoven, te encuentras golpeando las teclas de tu vida, tratando de hacer que el suelo truene bajo tus pies. Te hace desear poder mirar a tu alrededor con ojos frescos y sentir las cosas tan poderosamente como lo hiciste la primera vez que las sentiste.
+Cuando eras niño, aún podías emocionarte por las cosas. Sentías esa picazón de pirata en el último día de clases, en la mañana de tu cumpleaños, o en el giro final hacia la casa de tus abuelos. Podías sentirte rico con las monedas en tu bolsillo o al ofrecerte un chicle. Recuerdas cuán grande solía ser el mundo, cómo vagar hacia el vecindario siguiente se sentía como entrar en un país extranjero. Los adultos se cernían sobre ti como gigantes. Cada regla era un decreto, cada oración una sentencia de por vida.
+El tiempo se movía de manera diferente entonces, si es que se movía, llegando en grandes fragmentos escolares, y cada llegada se sentía importante. Comenzabas el año escolar como en un programa de protección de testigos, listo para recibir nuevos profesores, nuevas habilidades, una nueva identidad. En el verano, podías hacer que una tarde durara toda la semana, montando bicicletas con amigos o mirando cómo un chorro de agua se abría camino a través de la tierra. No había teléfonos zumbando en tus bolsillos, ni horarios, ni hormonas, ni distracciones—o tal vez eran todas distracciones. Sea lo que fuera, trataste de mantenerlo todo el tiempo que pudieras, incluso después de que las luces de la calle se encendieran por la noche y escuchabas voces en la oscuridad, ya llamándote a casa.
+El caleidoscopio de tus emociones giraba salvajemente durante el día, todo era intenso. Podías caminar aullando o llorando o sonriendo como un tonto. Cuando amabas a alguien, los amabas abiertamente y con abandono, abrazando con toda la fuerza que podías. Cuando encontrabas algo divertido, podías reírte tan fuerte que tu diafragma te dolía, tus mejillas húmedas con lágrimas, tus sienes palpitando. Podías sumergirte en un libro y salir jadeando, tropezar fuera de una película viendo rostros y colores de manera diferente, escuchar una canción en bucle durante semanas y sentir que te agarraba del cuello cada vez. Y sabías cómo jugar, sabías cómo hacer que tus juguetes cobraran vida frente a ti, cómo escuchar sus extrañas voces.
+Pero de alguna manera, incluso entonces, una parte de ti entendía que esta intensidad no duraría. Hubo momentos al final de la infancia cuando intentaste volver a jugar con tus juguetes favoritos antiguos, casi como un placer culpable, solo para descubrir que ya no podías hacerlo. Se veían exactamente igual, mientras los girabas en tus manos—pero de repente se sentían como trozos de tela y plástico moldeado, sin nada más que decir.
+Nunca volverás a sentir la misma paz que sentías antes, al quedarte dormido en el asiento trasero de un automóvil, solo para encontrarte teletransportado de regreso a tu propia cama. Nunca tendrás amistades que ocupen tanto de tu atención, pasando horas juntos cada día durante meses, lo que hacía que incluso la más mínima traición doliera. Nunca volverás a sentir el terror mortificante de un matón de secundaria o la agonía desgarradora de un amor no correspondido. Solo deberías esperar que la vida no te golpee en el estómago como lo hizo entonces.
+Aún así, de vez en cuando te encuentras tarareando una canción pop tonta que alguna vez te rompió el corazón a los dieciséis, tratando de volver a sentir esa sensación de nuevo. Eso fue alguna vez tu vida entera. Solo era cuestión de tiempo antes de que el mundo notara y bajara el volumen.
+La música todavía está ahí en alguna parte, incluso si no puedes escuchar las notas. Además, hay cierta belleza en los ecos—en saber que tienes un papel que jugar y hacerlo bien, en concierto con aquellos a tu alrededor. Y hay esos momentos raros en los que puedes dejarte llevar, cerrar los ojos y dejar que tu cuerpo se mueva con la orquesta, como los viejos árboles balanceándose en una tormenta de viento.
+Tienes que preguntarte qué te estás perdiendo, cerrando los ojos así. No importa; sigue tocando. Toca lo mejor que puedas, y deja que alguna otra alma se deje llevar por un momento o dos. Hasta que, como Beethoven, mires hacia arriba desde las teclas y te preguntes: “Ist es nicht schön?”
+“¿No es hermoso?”
+>Chino antiguo 余忆 (yú yì), recuerdo. Comparar con el mandarín 玉衣 (yù yī), traje de jade. Antes de su entierro, los cadáveres de los reyes de la dinastía Han se vestían con prendas ceremoniales hechas de jade—una piedra que se cree tiene propiedades preservativas. Incluso entonces, hace miles de años, la gente intentaba protegerse de las devastaciones del tiempo volviéndose “cansado.” Se pronuncia “yoo yee.”
 
 
 
 ### Ellipsism
-n. the sadness that you’ll never be able to know how history will turn out, that you’ll dutifully pass on the joke of being alive without ever learning the punch line, which may not suit your sense of humor anyway and will probably involve how many people it takes to change a lightbulb.
->From ellipsis, a marker of a continuation that you don’t get to see. Pronounced “ih-lip-siz-uhm.”
+n. la tristeza de que nunca podrás saber cómo resultará la historia, de que pasarás el chiste de estar vivo sin nunca aprender el remate, que puede que no se ajuste a tu sentido del humor de todos modos y probablemente involucre cuántas personas se necesitan para cambiar una bombilla.
+>Delipsis, un marcador de una continuación que no tienes la oportunidad de ver. Se pronuncia “ih-lip-siz-uhm.”
 
 
 
-### future-tense
-adj. sensing the judgment of your future self looking over your shoulder—chuckling at your well-laid plans or clutching their pearls at the risky move you’re about to make—which leaves you faintly wary of their opinion, even though you know they’d take your place in a heartbeat.
->From future (the grammatical tense) + tense.
+### Future-tense
+adj. sentir el juicio de tu yo futuro mirando sobre tu hombro—riendo de tus planes bien elaborados o agarrando sus perlas ante el movimiento arriesgado que estás a punto de hacer—lo que te deja vagamente cauteloso de su opinión, incluso aunque sabes que ellos tomarían tu lugar en un instante.
+>Del futuro (el tiempo gramatical) + tenso.
 
 
 
 ### Elosy
-n. the fear of major life changes, even ones you’ve been anticipating for years; the dread of leaving behind the bright and ordinary world you know, stepping out into that liminal space before the next stage of life begins, like the dark and rattling void between adjoining metro cars.
->Malagasy lelosy, snail, which is a creature that carries many twists and turns wherever it goes, trying in vain to outrun them. Pronounced “ehl-uh-see.”
+n. el miedo a los grandes cambios en la vida, incluso aquellos que has estado anticipando durante años; el temor de dejar atrás el mundo brillante y ordinario que conoces, adentrándote en ese espacio liminal antes de que comience la siguiente etapa de la vida, como el vacío oscuro y estruendoso entre vagones de metro adyacentes.
+>Malgache lelosy, caracol, que es una criatura que lleva muchos giros y vueltas allá donde va, tratando en vano de escapar de ellos. Se pronuncia “ehl-uh-see.”
 
 
 
 ### Nodus tollens
-***The sense that your life doesn’t fit into a story***
-Your life is a story. A torrent of overlapping moments, rushing at you in no particular order. As the days flip past, it all happens far too quickly to absorb—a mess of seemingly random events. Every once in a while, you look back and highlight certain memories as important, as turning points in the main plot. You trace each thread back to its origin, finding omens and ironies scattered along the way, until it all feels inevitable, and your life makes sense.
-But there are times when you look up and realize that the plot of your life doesn’t make sense to you anymore. You thought you were following the arc of the story, but you keep finding yourself immersed in passages you don’t understand. Either everything seems important or nothing does. It’s just a tangled mess of moments that keeps changing depending on what you choose to highlight.
-You look around and wonder, What kind of story is this? Just another coming-of-age tale, the same one your parents told, with the names switched around? Is your everyday life part of the origin story of something truly epic? Are you unwittingly getting by on other people’s charity, mistaking your own luck for your own success? Are you a character in a romance, a tragedy, a travelogue, or just another cautionary tale?
-As you thumb through the years, you may never know where this all is going. The only thing you know is that there’s more to the story. That soon enough you’ll flip back to this day looking for clues of what was to come, rereading all the chapters you tried to skim through to get to the good parts—only to learn that all along, you were supposed to choose your own adventure.
->Latin nodus tollens, literally “the knot that denies by denying.” In propositional logic, modus tollens (with an m) is a kind of argument that goes like this: “If P, then Q. But Q is not. Therefore, P must not be.” Also known as going back and questioning your first assumptions when things don’t work out the way you expected. Pronounced “noh-dus tah-luhns.”
+La sensación de que tu vida no encaja en una historia
+Tu vida es una historia. Un torrente de momentos superpuestos, fluyendo hacia ti sin un orden particular. A medida que los días pasan, todo sucede demasiado rápido para absorberlo: un caos de eventos aparentemente aleatorios. De vez en cuando, miras hacia atrás y destacas ciertos recuerdos como importantes, como puntos de inflexión en la trama principal. Sigues cada hilo hasta su origen, encontrando presagios e ironías a lo largo del camino, hasta que todo parece inevitable y tu vida tiene sentido.
+Pero hay momentos en los que miras hacia arriba y te das cuenta de que la trama de tu vida ya no tiene sentido para ti. Pensabas que estabas siguiendo el arco de la historia, pero sigues encontrándote inmerso en pasajes que no entiendes. O todo parece importante o nada lo es. Es solo un enredo de momentos que sigue cambiando dependiendo de lo que elijas resaltar.
+Miras alrededor y te preguntas, ¿Qué tipo de historia es esta? ¿Solo otra historia de crecimiento, la misma que contaron tus padres, con los nombres cambiados? ¿Es tu vida diaria parte de la historia de origen de algo verdaderamente épico? ¿Estás involuntariamente sobreviviendo gracias a la caridad de otros, confundiendo tu propia suerte con tu propio éxito? ¿Eres un personaje en una novela romántica, una tragedia, un viaje, o solo otra historia de advertencia?
+Mientras hojeas los años, nunca sabrás a dónde va todo esto. Lo único que sabes es que hay más en la historia. Que pronto volverás a este día buscando pistas sobre lo que estaba por venir, releyendo todos los capítulos que trataste de omitir para llegar a las partes buenas—solo para aprender que, en realidad, se suponía que debías elegir tu propia aventura.
+>Latín nodus tollens, literalmente "el nudo que niega al negar." En lógica proposicional, modus tollens (con una m) es un tipo de argumento que funciona así: “Si P, entonces Q. Pero Q no es. Por lo tanto, P no puede ser.” También conocido como volver atrás y cuestionar tus primeras suposiciones cuando las cosas no salen como esperabas. Se pronuncia “noh-dus tah-luhns.”
 
 
 
 ### Kadot
-n. fear of the prospect of not existing one day, feeling like a student about to graduate from the universe, on the cusp of a transition you don’t feel ready for.
->Finnish kadotus, perdition, which once meant “loss” but now means “eternal damnation.” Pronounced “kuh-doh.”
+n. miedo a la perspectiva de no existir algún día, sintiéndose como un estudiante a punto de graduarse del universo, al borde de una transición para la que no te sientes preparado.
+>Finlandés kadotus, perdición, que una vez significó “pérdida” pero ahora significa “condenación eterna.” Se pronuncia “kuh-doh.”
 
 
 
 ### Lachesism
-***Longing for the clarity of disaster***
-For a million years, we’ve watched the sky and huddled in fear. Feeling the thunder rumble deep in our chests, peering up at the storm clouds gathering on the horizon like an army preparing to invade. Even if you try filling the room with TV weather warnings to give yourself a sense of control, you can still taste the chaos hanging in the air.
-And yet, somewhere deep down, you find yourself rooting for the storm, hoping for the worst. As if a part of you is tired of waiting, wondering when the world will fall apart—by lot, by fate, by the will of the gods. Almost daring them to grant your wish. But really, you can wish all you want, because life is a game of chance. And each passing day is another flip of the coin.
-You can’t help but take this life for granted. Your eyes gradually adjust to the color of the walls, and your ears tune out the chatter. And while your brain goes numb trying to shake off your complacency, your heart can’t sit still, and your gut is hungry for chaos. Itching to get struck by lightning, plunge over a waterfall, or survive a plane crash. Hoping the trauma will somehow change you, leaving you hardened, stripped down, with clear eyes and a clear mission, forced to choose the one thing worth saving while everything else burns to ash, or send one final message to the people you love the most. Longing to watch society break down one pillar after the next, so you can find out what’s truly important, and let everything else fall away.
-The apocalypse is one of the oldest fantasies we have. But it’s not about skipping to the end of the story. It’s a longing for revelation, a revealing of what we already know but cannot see—that none of this is guaranteed, and there’s no such thing as “ordinary life.” That our civilization is just an agreement, one that could be revoked at any time. That beneath our rules and quarrels, we’re stuck together on a wide-open planet where anything can happen, which leaves us no choice but to survive, to build a shelter, and find each other in the storm. Knowing that every passing day is very nearly miraculous, a cascading series of accidents that just happens to fall our way.
-Eventually, the storm will pass, the skies will clear, and we’ll pick up our lives just where we left them, no more urgently than before. We’ll soak in the sunshine as if none of it mattered, forgetting the sense of fellowship we once found in the shelter.
-That’s alright. It’s just life—it’s not the end of the world.
->In Ancient Greek mythology, Lachesis is the middle of the three Fates, the one who decides how much time is to be allotted to each of us, measuring out the thread of life with her rod. Pronounced “lahk-uh-siz-uhm.”
+Anhelo de la claridad del desastre
+Durante un millón de años, hemos observado el cielo y nos hemos acurrucado con miedo. Sintiendo el trueno retumbar en nuestro pecho, mirando las nubes de tormenta que se reúnen en el horizonte como un ejército preparándose para invadir. Incluso si intentas llenar la habitación con advertencias meteorológicas en la televisión para darte una sensación de control, todavía puedes saborear el caos que cuelga en el aire.
+Y, sin embargo, en lo más profundo, te encuentras alentando la tormenta, esperando lo peor. Como si una parte de ti estuviera cansada de esperar, preguntándose cuándo se desmoronará el mundo—por azar, por destino, por la voluntad de los dioses. Casi desafiándolos a conceder tu deseo. Pero en realidad, puedes desear todo lo que quieras, porque la vida es un juego de azar. Y cada día que pasa es otro lanzamiento de la moneda.
+No puedes evitar dar esta vida por sentada. Tus ojos se ajustan gradualmente al color de las paredes, y tus oídos se desconectan del ruido. Y mientras tu cerebro se adormece tratando de sacudirse la complacencia, tu corazón no puede quedarse quieto, y tu estómago está hambriento de caos. Picazón por ser alcanzado por un rayo, caer por una cascada o sobrevivir a un accidente aéreo. Esperando que el trauma de alguna manera te cambie, dejándote endurecido, despojado, con los ojos y la misión claros, forzado a elegir una cosa que valga la pena salvar mientras todo lo demás se quema hasta convertirse en cenizas, o enviar un último mensaje a las personas que más amas. Anhelando ver cómo la sociedad se desmorona pilar tras pilar, para que puedas descubrir qué es lo verdaderamente importante y dejar que todo lo demás se desvanezca.
+El apocalipsis es una de las fantasías más antiguas que tenemos. Pero no se trata de saltar al final de la historia. Es un anhelo de revelación, una revelación de lo que ya sabemos pero no podemos ver—que nada de esto está garantizado, y que no existe una “vida ordinaria.” Que nuestra civilización es solo un acuerdo, uno que podría ser revocado en cualquier momento. Que debajo de nuestras reglas y disputas, estamos atrapados juntos en un planeta abierto donde cualquier cosa puede suceder, lo que nos deja sin otra opción que sobrevivir, construir un refugio y encontrarnos en la tormenta. Sabiendo que cada día que pasa es casi un milagro, una serie de accidentes que simplemente ocurre a nuestro favor.
+Eventualmente, la tormenta pasará, los cielos se despejarán y recogeremos nuestras vidas justo donde las dejamos, sin más urgencia que antes. Nos bañaremos en la luz del sol como si nada de esto hubiera importado, olvidando el sentido de compañerismo que una vez encontramos en el refugio.
+Está bien. Es solo la vida—no es el fin del mundo.
+>En la mitología griega antigua, Lachesis es la del medio de las tres Moiras, la que decide cuánto tiempo se le asigna a cada uno de nosotros, midiendo el hilo de la vida con su varilla. Se pronuncia “lahk-uh-siz-uhm.”
 
 
 
 ### Yráth
-***Hunger for mystery in a time of easy answers***
-We’ll never invent a computer that could give us an answer to the meaning of life, the universe, and everything. But you have to wonder how close we might come one day—how many intractable mysteries will end up being solvable, how many inconveniences will get fixed over time.
-It’s not hard to imagine how satisfying it would feel, cruising through the world on autopilot, along the optimum route at the optimum speed, hitting only the top-rated destinations. To have every question answered, every obstacle avoided, every risk insured in real time, with your odds of failure already calculated to the third decimal place, leaving you with little else to do but listen to a serene digital voice chime in with reminders and progress reports, muttering to yourself, I know, I know, I know.
-But what are the odds that even then, you’d only end up feeling lost? Because there’s a part of you that doesn’t particularly want easy answers. That bristles at spoilers and step-by-step instructions, that wants to be fooled by magic tricks, that stirs to life whenever your phone dies and you find yourself lost in neighborhoods you’d otherwise never get to see. There’s still the art of the slow unveiling—learning the world by heart, piece by piece, in no particular rush—allowing yourself to soak in the mystery of things.
-There’s some beauty left in mystery. The beauty of knowing that the ocean is still mostly uncharted, inhabited by creatures nobody’s ever seen, except for the scars they leave on the faces of whales. The beauty that we have names for planets that we’re not even sure exist. That the people of Ancient Greece lived out their lives within walking distance of Mount Olympus but never felt compelled to climb it, opting instead to let their gods live out their immortal lives in peace.
-We should count ourselves lucky that we were born so early in history—back when the machine was only just starting to boot up, when it was still possible to go outside and savor a moment of in-betweenness. When you could still get out there in the early morning, pulling a canoe through the reeds on the edge of the lake, dropping a line, and waiting for a nibble in silence.
-If nothing else, that silence reminds you to pay attention to the nature of things. Calibrating your senses, learning to recognize a glimmer of something real, turning in the deep. You have no idea what’s going to happen, if anything happens at all—but that’s alright, you’ve got nowhere to be.
-As of this writing, there’s still no computer that can give us all the answers. No fish finder that can tell you when to set the hook. So you might as well sit back and soak in the suspense, and thank the gods that it’s still possible to get lost in the middle of nowhere, watching your line scribble across the water, humming softly to yourself, I don’t know, I don’t know, I don’t know.
->Origin unknown. Pronounced “ee-rawth.”
+Hambre de misterio en una época de respuestas fáciles
+Nunca inventaremos una computadora que pueda darnos una respuesta al significado de la vida, el universo y todo lo demás. Pero tienes que preguntarte qué tan cerca podríamos llegar algún día—cuántos misterios intratables terminarán siendo resolubles, cuántas inconveniencias se solucionarán con el tiempo.
+No es difícil imaginar lo satisfactorio que sería, navegando por el mundo en piloto automático, por la ruta óptima a la velocidad óptima, visitando solo los destinos mejor valorados. Tener cada pregunta respondida, cada obstáculo evitado, cada riesgo asegurado en tiempo real, con tus probabilidades de fracaso ya calculadas hasta el tercer decimal, dejándote con poco más que hacer que escuchar una voz digital serena que te recuerde y te informe del progreso, murmurando para ti mismo, lo sé, lo sé, lo sé.
+Pero, ¿cuáles son las probabilidades de que incluso entonces, solo termines sintiéndote perdido? Porque hay una parte de ti que no quiere particularmente respuestas fáciles. Que se irrita con los spoilers y las instrucciones paso a paso, que quiere ser engañada por trucos de magia, que cobra vida cada vez que tu teléfono se apaga y te encuentras perdido en barrios que de otro modo nunca llegarías a ver. Aún queda el arte del despliegue lento—aprender el mundo de memoria, pieza por pieza, sin prisa—permitiéndote absorber el misterio de las cosas.
+Hay cierta belleza en el misterio. La belleza de saber que el océano aún está en su mayoría sin explorar, habitado por criaturas que nadie ha visto nunca, excepto por las cicatrices que dejan en las caras de las ballenas. La belleza de que tenemos nombres para planetas que ni siquiera estamos seguros de que existan. Que los antiguos griegos vivieron sus vidas a poca distancia del Monte Olimpo pero nunca sintieron la necesidad de escalarlo, optando en cambio por dejar a sus dioses vivir sus vidas inmortales en paz.
+Deberíamos sentirnos afortunados de haber nacido tan temprano en la historia—cuando la máquina apenas estaba empezando a iniciarse, cuando aún era posible salir y saborear un momento de intersticio. Cuando aún podías salir temprano por la mañana, arrastrando una canoa a través de los juncos en el borde del lago, lanzando una línea y esperando un mordisco en silencio.
+Si nada más, ese silencio te recuerda prestar atención a la naturaleza de las cosas. Calibrando tus sentidos, aprendiendo a reconocer un destello de algo real, girando en lo profundo. No tienes idea de qué va a pasar, si es que pasa algo en absoluto—pero está bien, no tienes a dónde ir.
+Hasta la fecha, aún no existe una computadora que pueda darnos todas las respuestas. Ningún buscador de peces que te diga cuándo lanzar el anzuelo. Así que podrías simplemente sentarte y absorber la incertidumbre, y agradecer a los dioses que aún sea posible perderse en medio de la nada, observando cómo tu línea se desplaza por el agua, tarareando suavemente para ti mismo, no lo sé, no lo sé, no lo sé.
+>Origen desconocido. Se pronuncia “ee-rawth.”
 
 
 
 ### Nodrophobia
-n. the fear of irrevocable actions and irreversible processes—knowing that a colorful shirt will fade a little more with every wash, that your tooth enamel is wearing away molecule by molecule, never to grow back.
->Greek μονόδρομος (monódromos), one-way street + -φοβία (-phobía), fear. Pronounced “noh-droh-foh-bee-uh.”
+n. el miedo a las acciones irrevocables y los procesos irreversibles—saber que una camisa de colores se desvanecerá un poco más con cada lavado, que el esmalte de tus dientes se desgasta molécula a molécula, sin volver a crecer.
+>Griego μονόδρομος (monódromos), calle de un solo sentido + -φοβία (-phobía), miedo. Se pronuncia “noh-droh-foh-bee-uh.”
 
 
 
 ### Tornomov
-n. the weird hollowness of trying to imagine the distant future—struggling to place it in any sort of context you’d find relatable but straining to believe it could feel all that different from the world around you.
->A word that looks like tomorrow from a distance but is actually something else that you can’t really explain. Occasionally nuclear engineers try to work out how to warn future generations to stay away from radioactive waste sites, where it won’t be safe to dig for ten thousand years. There are many challenges: stainless steel signs will eventually rust away, etchings in granite will be buffed clean by sandstorms, huge menacing earthworks shrouded in vegetation. Any words or symbols we leave behind will surely have lost their meaning by then, the Gregorian calendar replaced five times over, erasing any sense of when AD 12000 was supposed to be. It makes you wonder: If it seems impossible to pass a message beyond our own little neighborhood in time, impossible even to warn our descendants not to dig into poisoned ground, what relationship do we have to them? Pronounced “tohr-noh-mawf.”
+n. la extraña vacuidad de intentar imaginar el futuro lejano—luchando por situarlo en algún contexto con el que te sientas identificable pero esforzándote por creer que podría sentirse tan diferente del mundo que te rodea.
+>Una palabra que parece tomorrow desde la distancia pero que en realidad es algo más que no puedes explicar del todo. Ocasionalmente, los ingenieros nucleares intentan averiguar cómo advertir a las generaciones futuras que se mantengan alejadas de los sitios de desechos radiactivos, donde no será seguro excavar durante diez mil años. Hay muchos desafíos: las señales de acero inoxidable eventualmente se oxidarán, las inscripciones en granito serán borradas por tormentas de arena, grandes obras de tierra amenazantes envueltas en vegetación. Cualquier palabra o símbolo que dejemos atrás seguramente habrá perdido su significado para entonces, el calendario gregoriano reemplazado cinco veces, borrando cualquier sentido de cuándo se suponía que era el año 12000 d.C. Te hace preguntarte: Si parece imposible pasar un mensaje más allá de nuestro pequeño vecindario en el tiempo, incluso imposible advertir a nuestros descendientes que no excaven en terreno envenenado, ¿qué relación tenemos con ellos? Se pronuncia “tohr-noh-mawf.”
 
 
 
 ### Tiris
-***The bittersweet awareness that all things must end***
-Even right at the start of things, you can feel the sense of an ending. The way you’re still only settling into vacation while mentally preboarding your flight home, or how soon after starting a new relationship you start to wonder exactly how this one ends. Even before you’ve purchased the carton of milk in your hands, you’re already turning it over, looking for the expiration date.
-In the end, all goods are perishable. Everything is transient. Look down at your wedding ring and you can already see it shining on your granddaughter’s hand, knowing she’ll occasionally spin it around her finger when she gets nervous. Fill up a journal or frame a family photo, and you can already feel it sitting in a box on the shelf of an antique shop.
-So it goes, and such is life, and this too shall pass. Anicca and anitya, mono no aware, sic transit gloria mundi, amen. But back when you were a kid, you couldn’t help but look at the world like a still life painting, pretty and static and hopelessly boring. If you were lucky, there were people around you who tried to insulate you from change, who were there to reassure you, “Don’t you worry, I’m not going anywhere. Not for a long time.”
-As a result, you couldn’t help but feel shocked when things started disappearing without warning—your best friend moved away, the video store closed, the family dog grew old and died. That incipient sense of loss is what drew you closer to those still alive and well, and gave you a reason to pay closer attention, hoarding details like a honeybee rushing from flower to flower, because you knew summer wouldn’t last forever.
-Eventually with the benefit of years, you began to notice shifts too subtle to register from one day to the next. How quickly a bouquet starts to wilt, how a fringe of white sweeps over your father’s hair. You keep reminding yourself to make peace with the churn. But for some reason you still find yourself shocked when things change in ways you didn’t see coming, as if you keep falling for the same old sleight of hand.
-Of course, sometimes you have to thank the gods that nothing lasts forever. It’s a relief to know that your mistakes will start to fade as soon as they hit the page, that when the harvest fails, a new spring is already on its way. We don’t have to wait long for another shot at redemption.
-Other times, the impermanence of everything around us feels haunting. To think that a thousand-year-old cathedral won’t always be there. That entire cities can be forgotten in a manner of decades, vibrant languages dwindled into obscurity, fearsome gods relinquished to old books, old books turned to dust. How casually the world discards our work, with nothing but a shrug. There’s even an odd comfort in hearing how long it takes for Styrofoam to decompose—all the better for humans to have left some sort of mark on this world, as if each discarded coffee cup is just another way of saying, We were here.
-You begin to wonder: Why bother making long-term plans? What’s the point of getting invested, when the sitcom will only get canceled, the house will break apart, the sand mandala swept into the trash? Why let yourself fall in love with someone when the best-case scenario is you’ll end up losing them?
-This question has persisted for centuries, appearing in so many songs and poems and conversations by those who came before us. Some of their tombstones are still around today, for a little while longer at least. It’ll be a while before the rain wears away the granite. The mountains too are steadily crumbling away, inch by inch, year by year, soon to be recycled back into the fiery mantle from which they came. Alas, even the world is not long for this world, soon to be swallowed up by the sun. Soon enough the stars will burn out, too, leaving little else but an echo of radiation, reverberating in a heatless void. And there will be no way to tell that time is passing at all.
-There’s a certain kinship there, shared by all things. The stars and the tombstones, the family dog and the honeybees. A comfort to think that we are all united in our impermanence. Because if even the mountains have lifetimes, and our own galaxy will one day be no more, then there’s no solid definition of what permanence even means. Eternity, infinity, forever: these are nonsense words, poetical abstractions, useful only to spice up mathematicians’ thought experiments. The finiteness of reality takes it out of the hands of the gods and gives us control. Without an objective yardstick to establish what eternity looks like, it’s up to us to define what timeframe we view as normal, and calibrate our own understanding of what fleeting and lasting really mean.
-You can take a summer afternoon playing yard games with your family and make it last for years. Spend an eternity sitting by the fire with your loved ones, or tell a bedtime story to your kids that they’ll remember for eons. Grow a garden, and revel in its sweetness for a little while, before it all withers away, buried in snow and ash. Drop by to visit with friends, chatting about nothing particularly important. Call your parents. Go out and look at the stars while they’re still visible. Doodle away in the margins, and make art for its own sake, even though you know it won’t last more than a few thousand years. You can sit in a chair listening to music, while music still exists; you can curl up and read a good book while the language is still alive, while the words still have meaning.
-The meaning of things isn’t an emergent property of how long they last. We are the ones who define them for ourselves, if only for our own satisfaction. It is an honor reserved for mortals; we just have to have the courage to do it. To decide for ourselves which fleeting, precious, interminable moments we’ll carry with us right to the end. Maybe to the mountains, they won’t amount to all that much. But to the honeybees, it’s more than enough.
-To the honeybees, summer never ends. They live for a few months at most, barely long enough to feel the seasons change. They have no need to remind each other to put themselves out there, gathering their rosebuds while they may. You can hear them buzzing deep in their hives, trading bits of sweetness they’ve gathered out in the world. How easily they pass the nectar back and forth between their bodies, freely mixing it all together as if none of it made a difference, knowing they’ll never live long enough to taste it all.
-And yet, their honey is the one thing that never expires, that never loses its sweetness. Maybe that buzzing sound is just another way of saying, We are here.
->From Tír na nÓg, the land of everlasting youth in Irish folklore + hubris, excessive pride or arrogance, especially toward a god. “Our songs will all be silenced,” said Orson Welles, “but what of it? Go on singing.” Pronounced “teer-uhs.”
+La conciencia agridulce de que todas las cosas deben terminar
+Incluso al comienzo de las cosas, puedes sentir el sentido de un final. La forma en que aún te estás acomodando en las vacaciones mientras mentalmente estás preembarqueando tu vuelo de regreso, o cómo pronto después de comenzar una nueva relación te empiezas a preguntar exactamente cómo termina esta. Incluso antes de que hayas comprado el cartón de leche en tus manos, ya estás dándole la vuelta, buscando la fecha de vencimiento.
+Al final, todos los bienes son perecederos. Todo es transitorio. Mira tu anillo de boda y ya puedes verlo brillando en la mano de tu nieta, sabiendo que ella lo girará alrededor de su dedo cuando esté nerviosa. Llena un diario o enmarca una foto familiar, y ya puedes sentirlo sentado en una caja en el estante de una tienda de antigüedades.
+Así es como va, y así es la vida, y esto también pasará. Anicca y anitya, mono no aware, sic transit gloria mundi, amén. Pero cuando eras un niño, no podías evitar ver el mundo como una pintura de naturaleza muerta, bonita y estática y desesperadamente aburrida. Si tuviste suerte, había personas a tu alrededor que intentaban aislarte del cambio, que estaban allí para tranquilizarte, “No te preocupes, no me voy a ir. No por un largo tiempo.”
+Como resultado, no pudiste evitar sentirte sorprendido cuando las cosas comenzaron a desaparecer sin previo aviso—tu mejor amigo se mudó, la tienda de videos cerró, el perro de la familia se volvió viejo y murió. Esa sensación incipiente de pérdida es lo que te acercó a los que aún están vivos y bien, y te dio una razón para prestar más atención, acumulando detalles como una abeja que va de flor en flor, porque sabías que el verano no duraría para siempre.
+Eventualmente, con el beneficio de los años, comenzaste a notar cambios demasiado sutiles para registrarse de un día para otro. Qué rápido comienza a marchitarse un ramo, cómo una franja de blanco se extiende sobre el cabello de tu padre. Sigues recordándote a ti mismo que hagas las paces con el torbellino. Pero por alguna razón, aún te sorprendes cuando las cosas cambian de maneras que no esperabas, como si siguieras cayendo en el mismo truco de magia.
+Por supuesto, a veces tienes que agradecer a los dioses que nada dura para siempre. Es un alivio saber que tus errores comenzarán a desvanecerse tan pronto como toquen la página, que cuando la cosecha falla, una nueva primavera ya está en camino. No tenemos que esperar mucho para otra oportunidad de redención.
+Otras veces, la impermanencia de todo a nuestro alrededor se siente inquietante. Pensar que una catedral de mil años no siempre estará allí. Que ciudades enteras pueden ser olvidadas en cuestión de décadas, lenguas vibrantes reducidas a la oscuridad, dioses temibles relegados a viejos libros, viejos libros convertidos en polvo. Qué fácilmente el mundo descarta nuestro trabajo, con nada más que un encogimiento de hombros. Incluso hay un consuelo extraño en escuchar cuánto tarda en descomponerse el poliestireno—todo lo mejor para los humanos que han dejado alguna marca en este mundo, como si cada taza de café desechada fuera solo otra forma de decir, Estuvimos aquí.
+Comienzas a preguntarte: ¿Por qué molestarse en hacer planes a largo plazo? ¿Cuál es el punto de involucrarse, cuando el programa de televisión solo será cancelado, la casa se desintegrará, el mandala de arena barrido a la basura? ¿Por qué dejarte enamorar de alguien cuando el mejor escenario es que termines perdiéndolo?
+Esta pregunta ha persistido durante siglos, apareciendo en tantas canciones y poemas y conversaciones de quienes vinieron antes que nosotros. Algunas de sus lápidas aún están alrededor hoy, al menos por un tiempo más. Pasará un tiempo antes de que la lluvia desgaste el granito. Las montañas también están desmoronándose, pulgada a pulgada, año tras año, pronto serán recicladas de nuevo al manto ígneo del que vinieron. Lamentablemente, incluso el mundo no está hecho para durar, pronto será devorado por el sol. Pronto las estrellas también se extinguirán, dejando poco más que un eco de radiación, reverberando en un vacío sin calor. Y no habrá forma de saber que el tiempo está pasando en absoluto.
+Hay una cierta afinidad allí, compartida por todas las cosas. Las estrellas y las lápidas, el perro de la familia y las abejas. Un consuelo pensar que todos estamos unidos en nuestra impermanencia. Porque si incluso las montañas tienen vidas, y nuestra propia galaxia algún día no existirá más, entonces no hay una definición sólida de lo que realmente significa permanencia. Eternidad, infinito, para siempre: estas son palabras sin sentido, abstracciones poéticas, útiles solo para enriquecer los experimentos mentales de los matemáticos. La finitud de la realidad lo saca de las manos de los dioses y nos da control. Sin un punto de referencia objetivo para establecer cómo se ve la eternidad, nos toca a nosotros definir qué marco de tiempo vemos como normal y calibrar nuestra propia comprensión de lo que es fugaz y duradero.
+Puedes tomar una tarde de verano jugando juegos en el jardín con tu familia y hacer que dure años. Pasar una eternidad sentado junto al fuego con tus seres queridos, o contar un cuento a tus hijos que recordarán por eones. Cultiva un jardín y deleítate en su dulzura por un tiempo, antes de que todo se marchite, enterrado en nieve y cenizas. Visita a amigos, charlando sobre nada particularmente importante. Llama a tus padres. Sal y mira las estrellas mientras aún son visibles. Dibuja en los márgenes y haz arte por su propio bien, aunque sepas que no durará más que unos pocos miles de años. Puedes sentarte en una silla escuchando música, mientras la música aún existe; puedes acurrucarte y leer un buen libro mientras el idioma aún está vivo, mientras las palabras aún tienen significado.
+El significado de las cosas no es una propiedad emergente de cuánto duran. Nosotros somos los que los definimos para nosotros mismos, si solo para nuestra propia satisfacción. Es un honor reservado para los mortales; solo tenemos que tener el coraje de hacerlo. Decidir por nosotros mismos qué momentos fugaces, preciosos e interminables llevaremos con nosotros hasta el final. Tal vez para las montañas, no signifiquen mucho. Pero para las abejas, es más que suficiente.
+Para las abejas, el verano nunca termina. Viven unos pocos meses como mucho, apenas lo suficiente para sentir el cambio de estaciones. No tienen necesidad de recordarse a sí mismas que deben aprovechar el momento, recolectando sus capullos mientras puedan. Puedes escucharlas zumbando en lo profundo de sus colmenas, intercambiando trozos de dulzura que han recolectado en el mundo. Qué fácilmente pasan el néctar de un cuerpo a otro, mezclándolo todo como si nada importara, sabiendo que nunca vivirán lo suficiente para probarlo todo.
+Y, sin embargo, su miel es lo único que nunca expira, que nunca pierde su dulzura. Tal vez ese zumbido es solo otra forma de decir, Estamos aquí.
+>Del Tír na nÓg, la tierra de la juventud eterna en el folclore irlandés + hubris, orgullo excesivo o arrogancia, especialmente hacia un dios. “Todas nuestras canciones serán silenciadas,” dijo Orson Welles, “pero ¿y qué? Sigue cantando.” Se pronuncia “teer-uhs.”
 
 
 

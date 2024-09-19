@@ -6,7 +6,7 @@ multilingual: true
 catalog:      false
 title:        "Aeria gloris"
 subtitle:     ""
-author:       "Ghost In The Shell"
+author:       "Ghost in the shell (1995)"
 date:         1995-12-31 
 tags:
             - Philosophy
