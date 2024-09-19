@@ -4,8 +4,8 @@ header-style: text
 header-img:   ""
 multilingual: false
 catalog:      false
-iframe:       "https://eugeniosaintemarie.github.io/quotes/"
-title:        "Quotes"
+iframe:       "https://eugeniosaintemarie.github.io/phrases/"
+title:        "Phrases"
 subtitle:     ""
 author:       ""
 date:         1994-12-30
