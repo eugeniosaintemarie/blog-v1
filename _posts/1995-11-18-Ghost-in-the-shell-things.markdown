@@ -7,7 +7,7 @@ catalog:      false
 title:        "All things change in a dynamic environment"
 subtitle:     ""
 author:       "Ghost in the shell (1995)"
-date:         2024-09-05 
+date:         1995-11-18 
 tags:
             - Movies/Shows
 ---
