@@ -1,13 +1,13 @@
 ---
 layout:       post
 header-style: 
-header-img:   "img/posts/2019-12-29-Mr-Robot-hello-friend.jpg"
+header-img:   "img/posts/2015-06-24-Mr-Robot-hello-friend.jpg"
 multilingual: true
 catalog:      false
 title:        "Society"
 subtitle:     "hello_friend.mov"
 author:       "Mr. Robot"
-date:         2019-12-29 
+date:         2015-06-24 
 tags:
             - Movies/Shows
 ---
