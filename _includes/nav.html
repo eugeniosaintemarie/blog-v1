@@ -50,7 +50,7 @@
     .then(config => {
       const baseURL = config.baseURL;
       const getRepoURL = (repoName) => `${baseURL}/${repoName}/`;
-      const repoName = getRepoURL("camera");                       //repo-name
+      const repoName = getRepoURL("camera");
       document.getElementById("access").href = repoName;
     })
     .catch(error => console.error("Error loading configuration:", error));
