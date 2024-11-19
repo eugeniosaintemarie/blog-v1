@@ -158,7 +158,7 @@ adj. sentirse solo en medio de una multitud; dejándose llevar en un mar de rost
 
 
 
-### [Anemoia](../../2023/10/22/John-Koenig-anemoia/?lang=es)
+### [Anemoia](../../../../2023/10/22/John-Koenig-anemoia/?lang=es)
 Nostalgia por un tiempo que nunca experimentaste
 Mirar fotos antiguas, es difícil no sentir una especie de deseo de aventura. Un golpe de nostalgia por una era que nunca viviste. Anhelo de atravesar el marco y entrar en un mundo en blanco y negro, si solo fuera para sentarse al costado de la carretera y observar a los locales pasar.
 Estas son personas que vivieron y murieron antes de que ninguno de nosotros llegara aquí. Que duermen en algunas de las mismas casas en las que nosotros vivimos, y miran la misma luna. Que respiran el mismo aire, sienten la misma sangre en sus venas—y viven en un mundo completamente diferente.

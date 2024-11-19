@@ -15,7 +15,6 @@
                 ? (r / 2) * t * t + n
                 : (-r / 2) * (--t * (t - 2) - 1) + n;
         },
-        // ... (other easing functions can be optimized similarly)
         easeInBounce(t, n, r, i, s) {
             return i - this.easeOutBounce(t, s - n, 0, i, s) + r;
         },
