@@ -22,16 +22,16 @@
             {% for page in site.pages %} {% if page.title and page.hide-in-nav
             != true %}
             <li>
-              <a href="https://eugeniosaintemarie.github.io/notes/1994/12/31/quotes/">Quotes</a>
+              <a href="./1994/12/31/quotes/">Quotes</a>
             </li>
             <li>
-              <a href="https://eugeniosaintemarie.github.io/notes/1994/12/30/phrases/">Phrases</a>
+              <a href="./1994/12/30/phrases/">Phrases</a>
             </li>
             <li>
               <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             </li>
             <li>
-              <a href="https://eugeniosaintemarie.github.io/camera" title="Camera" target="_blank"><i class="fa-solid fa-camera"></i></a>
+              <a href="#" title="Camera" target="_blank"><i class="fa-solid fa-camera"></i></a>
             </li>
             <li>
               <a href="https://www.pinterest.es/eugeniosaintemarie" title="Pinterest" target="_blank"><i class="fa-solid fa-thumbtack"></i></a>
@@ -45,6 +45,15 @@
     <!-- /.container -->
   </nav>
   <script>
+      fetch("https://eugeniosaintemarie.github.io/config-central/url.json")
+    .then(response => response.json())
+    .then(config => {
+      const baseURL = config.baseURL;
+      const getRepoURL = (repoName) => `${baseURL}/${repoName}/`;
+      const repoName = getRepoURL("notes");                       //repo-name
+      document.getElementById("access").href = repoName;
+    })
+    .catch(error => console.error("Error loading configuration:", error));
     var $body = document.body;
     var $toggle = document.querySelector(".navbar-toggle");
     var $navbar = document.querySelector("#notes_navbar");
