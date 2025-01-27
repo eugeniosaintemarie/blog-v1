@@ -10,20 +10,12 @@ subtitle:     ""
 author:       ""
 date:         1995-01-01
 tags:         
-            - Twwets
+            - Tweets
 ---
-
-<div class="tweets-container">
-
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">Este es un ejemplo de tweet incrustado.</p>
-  &mdash; Usuario (@usuario) <a href="">Fecha del tweet</a>
-</blockquote>
-
-</div>
 
 <blockquote class="twitter-tweet">
   <p lang="es" dir="ltr">Este es un tweet de ejemplo</p>
-  &mdash; Usuario (@Usuario) <a href="hhttps://x.com/AlanDaitch/status/1883827944705187869">Fecha</a>
+  &mdash; Usuario (@Usuario) <a href="https://x.com/AlanDaitch/status/1883827944705187869">Fecha</a>
 </blockquote>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
