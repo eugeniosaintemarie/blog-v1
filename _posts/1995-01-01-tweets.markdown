@@ -16,7 +16,8 @@ tags:
 <div class="tweets-container">
 
 <blockquote class="twitter-tweet">
-  <a href="https://x.com/AlanDaitch/status/1883827944705187869">Ver tweet</a>
+  <p lang="en" dir="ltr">Este es un ejemplo de tweet incrustado.</p>
+  &mdash; Usuario (@usuario) <a href="https://twitter.com/usuario/status/1234567890123456789">Fecha del tweet</a>
 </blockquote>
 
 </div>
