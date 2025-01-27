@@ -16,7 +16,7 @@ tags:
 <div class="tweets-container">
 
 <blockquote class="twitter-tweet">
-<a href="https://x.com/AlanDaitch/status/1883827944705187869"></a>
+  <a href="https://x.com/AlanDaitch/status/1883827944705187869">Ver tweet</a>
 </blockquote>
 
 </div>

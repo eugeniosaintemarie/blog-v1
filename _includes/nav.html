@@ -22,16 +22,18 @@
             {% for page in site.pages %} {% if page.title and page.hide-in-nav
             != true %}
             <li>
-              <a href="./1994/12/30/quotes/">Quotes</a>
+              <a href="https://eugeniosaintemarie.github.io/notes/1994/12/30/quotes/">Quotes</a>
             </li>
             <li>
-              <a href="./1994/12/31/phrases/">Phrases</a>
+              <!--<a href="https://eugeniosaintemarie.github.io/notes/1994/12/31/phrases/">Phrases</a>-->
+              {% assign specific_path = "1994/12/31/phrases" %}
+              <a href="{{ specific_path | prepend: site.baseurl }}">{{ page.title }}</a>
             </li>
             <li>
               <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             </li>
             <li>
-              <a href="./1995/01/01/tweets/">Tweets</a>
+              <a href="https://eugeniosaintemarie.github.io/notes/1995/01/01/tweets/">Tweets</a>
             </li>
             <li>
               <a id="repoAccessCamera" href="#" title="Camera" target="_blank"><i class="fa-solid fa-camera"></i></a>
