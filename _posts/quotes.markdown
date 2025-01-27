@@ -8,9 +8,8 @@ iframe:       "https://eugeniosaintemarie.github.io/quotes/"
 title:        "Quotes"
 subtitle:     ""
 author:       ""
-date:         1994-12-31
-tags:
-            - Quotes
+date:         
+tags:           
 ---
 
 <style>article, footer {display: none !important;}</style>

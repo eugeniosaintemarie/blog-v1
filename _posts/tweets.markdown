@@ -1,0 +1,38 @@
+---
+layout:       post
+header-style: text
+header-img:   ""
+multilingual: false
+catalog:      false
+iframe:       ""
+title:        "Tweets"
+subtitle:     ""
+author:       ""
+date:         
+tags:         
+---
+
+<div class="tweets-container">
+
+<blockquote class="twitter-tweet">
+<a href="https://x.com/AlanDaitch/status/1883827944705187869"></a>
+</blockquote>
+
+</div>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<style>
+.tweets-container {
+  display: grid;
+  gap: 1rem;
+  max-width: 550px;
+  margin: 2rem auto;
+}
+
+@media (min-width: 1200px) {
+  .tweets-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+</style>
