@@ -17,24 +17,13 @@ tags:
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">Este es un ejemplo de tweet incrustado.</p>
-  &mdash; Usuario (@usuario) <a href="https://twitter.com/usuario/status/1234567890123456789">Fecha del tweet</a>
+  &mdash; Usuario (@usuario) <a href="">Fecha del tweet</a>
 </blockquote>
 
 </div>
 
+<blockquote class="twitter-tweet">
+  <p lang="es" dir="ltr">Este es un tweet de ejemplo</p>
+  &mdash; Usuario (@Usuario) <a href="hhttps://x.com/AlanDaitch/status/1883827944705187869">Fecha</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<style>
-.tweets-container {
-  display: grid;
-  gap: 1rem;
-  max-width: 550px;
-  margin: 2rem auto;
-}
-
-@media (min-width: 1200px) {
-  .tweets-container {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-</style>
