@@ -9,7 +9,8 @@ title:        "Quotes"
 subtitle:     ""
 author:       ""
 date:         1994-12-30
-tags:           
+tags:
+            - Quotes
 ---
 
 <style>article, footer {display: none !important;}</style>
