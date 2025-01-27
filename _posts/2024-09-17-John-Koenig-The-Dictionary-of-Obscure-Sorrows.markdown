@@ -1,7 +1,7 @@
 ---
 layout:       post
 header-style: 
-header-img:   "img/posts/2024-07-21-John-Koenig-The-Dictionary-of-Obscure-Sorrows-photo.jpg"
+header-img:   "img/posts/2024-09-17-John-Koenig-The-Dictionary-of-Obscure-Sorrows-photo.jpg"
 multilingual: true
 catalog:      true
 title:        "The Dictionary of Obscure Sorrows"
