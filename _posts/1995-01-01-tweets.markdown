@@ -13,9 +13,4 @@ tags:
             - Tweets
 ---
 
-<blockquote class="twitter-tweet">
-  <p lang="es" dir="ltr">Este es un tweet de ejemplo</p>
-  &mdash; Usuario (@Usuario) <a href="https://x.com/AlanDaitch/status/1883827944705187869">Fecha</a>
-</blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/ShaggyBGood?ref_src=twsrc%5Etfw">Tweets by ShaggyBGood</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
