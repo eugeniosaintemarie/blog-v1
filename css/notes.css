@@ -1859,7 +1859,7 @@ img::-moz-selection {
 .navbar-default .navbar-toggle .icon-bar {
   width: 18px;
   border-radius: 0;
-  background-color: #000;
+  background-color: #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar+.icon-bar {
