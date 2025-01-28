@@ -1,7 +1,7 @@
 ---
 layout:       post
 header-style: 
-header-img:   "img/posts/2019-12-29-Mr-Robot-kernel-panic.jpg"
+header-img:   "img/posts/2016-07-20-Mr-Robot-kernel-panic.jpg"
 multilingual: true
 catalog:      false
 title:        "God"

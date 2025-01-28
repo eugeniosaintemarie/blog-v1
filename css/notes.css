@@ -1688,7 +1688,7 @@ img::-moz-selection {
   border: none;
   line-height: 28px;
   margin: 0 2px 8px;
-  background: #404040;
+  background: #000;
 }
 
 #tag_cloud .tag.focus,
