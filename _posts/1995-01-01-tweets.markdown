@@ -10,7 +10,13 @@ subtitle:     ""
 author:       ""
 date:         1995-01-01
 tags:         
-            - Tweets
+            - 
 ---
 
-<a class="twitter-timeline" href="https://twitter.com/ShaggyBGood?ref_src=twsrc%5Etfw">Tweets by ShaggyBGood</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<style>
+    .tags, #tweets {display: none !important;}
+</style>
+
+<a class="twitter-timeline" href="https://twitter.com/ShaggyBGood?ref_src=twsrc%5Etfw"></a>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
