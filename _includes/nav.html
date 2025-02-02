@@ -32,15 +32,18 @@
             <li>
               <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             </li>
-            <li>
+            <!--<li>
               {% assign specific_path = "/1995/01/01/tweets" %}
               <a href="{{ specific_path | prepend: site.baseurl }}"><i class="fa fa-twitter"></i> Tweets</a>
-            </li>
+            </li>-->
             <li>
               <a id="repoAccessCamera" href="#" title="Camera" target="_blank"><i class="fa-solid fa-camera"></i> Camera</a>
             </li>
             <li>
               <a href="https://www.pinterest.es/eugeniosaintemarie" title="Pinterest" target="_blank"><i class="fa-solid fa-thumbtack"></i> Pins</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/user/eugeniosaintemarie/playlists"><i class="fa fa-spotify"></i></a>
             </li>
             {% endif %} {% endfor %}
           </ul>
